@@ -1,0 +1,1 @@
+This repo holds files that serve as examples for the Document Redaction app guide: https://huggingface.co/spaces/seanpedrickcase/document_redaction
