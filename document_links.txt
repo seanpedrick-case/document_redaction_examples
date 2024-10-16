@@ -1,0 +1,7 @@
+example_complaint_letter.jpg: https://consumer.ftc.gov/articles/sample-customer-complaint-letter
+
+example_of_emails_sent_to_a_professor_before_applying.pdf:
+https://biology.nd.edu/assets/182128/example_of_emails_sent_to_a_professor_before_applying.pdf
+
+Partnership-Agreement-Toolkit_0_0.pdf
+https://sistercities.org/wp-content/uploads/2017/10/Partnership-Agreement-Toolkit_0_0.pdf
