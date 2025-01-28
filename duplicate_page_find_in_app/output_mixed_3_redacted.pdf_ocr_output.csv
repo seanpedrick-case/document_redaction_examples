@@ -1,0 +1,1295 @@
+page,text,left,top,width,height
+1,CSM FLIGHT PLAN,207,932,29,313
+1,166:00,285,1898,16,59
+1,SIM EXP STATUS,284,1170,16,142
+1,166:30,282,1009,16,58
+1,SIM EXP STATUS,280,278,16,142
+1,(*0100),303,1212,19,67
+1,(1111),315,1899,20,66
+1,(11111),307,1006,20,67
+1,(*0100),299,319,20,67
+1,(_111),335,1900,19,62
+1,(00300),325,1213,19,67
+1,(_1111),330,1006,20,66
+1,(00300),320,319,19,67
+1,UPDATE:,367,1729,15,68
+1,LUNAR SOUNDER PAD (166:40),386,1515,20,260
+1,FLIGHT PLAN,408,1666,16,110
+1,(11101),472,1005,19,67
+1,V48 (11101),474,804,18,110
+1,LS,475,327,14,20
+1,(_1111),492,1006,20,66
+1,(_iii),493,803,21,66
+1,RCV,495,317,14,30
+1,ONLY,515,317,15,41
+1,(SEP-ON),535,299,19,76
+1,LUNAR SOUNDER PAD,629,573,16,173
+1,T-START:,669,668,15,78
+1,:,664,444,17,9
+1,:10,693,1899,16,28
+1,:40,693,1008,15,28
+1,T-STOP:,709,676,16,70
+1,(45°W TO 60°W),737,510,19,137
+1,LS OPERATE - OPERATE (T START),822,611,19,302
+1,LS,848,1221,15,20
+1,S,868,1857,15,9
+1,RCV,868,1211,14,30
+1,ONLY,888,1210,15,42
+1,D,910,1856,16,11
+1,(SEP-ON),907,1192,19,77
+1,LS,904,327,16,20
+1,D,916,963,15,10
+1,N,931,1856,14,10
+1,HF,925,327,15,20
+1,N,937,964,14,10
+1,(MARIUS HILLS),945,269,19,136
+1,ORBITAL SCIENCE VISUAL,980,1577,15,220
+1,LANDING SITE (CM5),1019,1627,20,178
+1,LS OPERATE - STBY (T STOP),1026,651,19,261
+1,WAIT 1 MIN,1047,791,16,104
+1,RCDR OFF,1068,812,15,101
+1,X,1083,1854,17,14
+1,:20,1102,1899,15,28
+1,:50,1099,1008,16,28
+1,LS,1252,327,15,20
+1,RCV,1273,318,14,30
+1,ONLY,1293,318,15,41
+1,(SEP-ON),1313,300,19,76
+1,ORBITAL SCIENCE VISUAL,1347,1575,16,220
+1,D-CALDERA (CM5),1387,1656,19,148
+1,RCDR ON,1458,1713,15,90
+1,166:30,1508,1898,16,59
+1,167:00,1506,1009,15,59
+1,MISSION,1556,1349,17,93
+1,EDITION,1557,1141,17,90
+1,DATE,1558,907,16,55
+1,PAGE,1557,756,16,60
+1,APOLLO 17,1587,1348,16,91
+1,FINAL (12/6),1586,1124,20,119
+1,10/23/72,1586,897,17,79
+1,3-233,1588,764,15,49
+2,"08 | Lambeth 2030 Our Future, Our Lambeth",78,70,455,28
+2,"Lambeth 2030 Our Future, Our Lambeth 09",2771,71,456,31
+2,Lambeth 2030,165,270,1030,133
+2,Vision Statement,152,418,1263,137
+2,Lambeth - a borough,159,739,856,93
+2,SUSTAINABLE,1732,712,640,65
+2,with social and climate,155,838,927,81
+2,justice at its heart.,151,941,742,83
+2,By harnessing the power and pride of,159,1071,1166,82
+2,"our people and partnerships, we will",157,1157,1118,78
+2,proactively tackle inequalities SO that,157,1241,1127,75
+2,children and young people can have the,159,1321,1237,79
+2,best start in life and SO everyone can feel,159,1405,1256,79
+2,safe and thrive in a place of opportunity.,158,1489,1228,80
+2,SAFER,2518,1576,259,60
+3,Managing Breathing Difficulties,480,113,692,46
+3,WHY DO I FEEL BREATHLESS?,117,201,570,33
+3,It is common for people who have had Covid-19 to feel breathless. Some of your breathing difficulties,117,264,1374,35
+3,"may not have got better yet. You may be taking quicker, shorter and shallower breaths. You may",118,302,1313,34
+3,notice that your shoulders are raised as you tense up and try and take in more air. Breathlessness can,117,339,1379,35
+3,also be made worse by anxiety.,117,376,415,31
+3,If you feel anxious and worried about being breathless this can make your muscles tense and cause your,117,436,1412,34
+3,heart to beat faster. This can then make you breathe faster and make your breathlessness and anxiety,118,473,1387,33
+3,worse. That is why it is important to stay in control of your breathing.,116,510,938,33
+3,Some of the reasons why you still feel breathless are:,117,581,707,32
+3,You may be producing too much mucus (fluid that coats and protects the inside of your airways).,171,633,1315,35
+3,You may have a chesty cough.,171,688,404,31
+3,You may be less fit than you used to be because you're not moving about and exercising as much.,171,740,1325,34
+3,Covid-19 may have caused some damage to your lungs.,172,794,754,32
+3,Your blood is pooling in the lower part of your body making you feel short of breath when you stand,171,847,1371,35
+3,up.,173,892,41,24
+3,You have residual inflammation in your lungs and/or,170,938,710,32
+3,If your breathlessness gets,1029,926,421,31
+3,blood vessels.,173,975,185,25
+3,"worse suddenly, for no",1064,967,351,31
+3,"apparent reason, you should",1020,1009,439,32
+3,You may be anxious.,171,1029,280,31
+3,speak to your GP or call 111,1008,1050,463,32
+3,Let's take a moment and have a think about what normal,118,1089,772,27
+3,breathing should look like.,117,1126,352,32
+3,"Normal breathing should be something you do without even thinking about it, it should be easy to do",118,1182,1379,35
+3,and you should breathe in through your nose. When we breathe in this way the air is filtered to remove,117,1219,1399,35
+3,any bacteria and dust. It's warmed up so it's the right temperature for your lungs and it becomes wet,117,1256,1364,34
+3,in your nose. Normal breathing should be quiet. Your breath out should be slightly longer than your,118,1293,1358,34
+3,breath in.,118,1332,131,25
+3,"The diaphragm is the main muscle that controls your breathing. When we breathe in, the diaphragm",116,1382,1358,35
+3,"pulls your ribcage down, sucking air into your lungs. When you breathe out, the diaphragm relaxes and",118,1419,1406,35
+3,you let go of the air. Breathing out should require no effort whatsoever. When you don't breathe like,116,1456,1365,35
+3,this you use up more energy and can get tired easily.,116,1494,703,32
+3,Inspiration,363,1572,88,17
+3,Expiration,756,1569,83,17
+3,Automatic,970,1631,249,44
+3,Effortless,1295,1631,228,44
+3,Thoracic cavity,124,1832,116,17
+3,Thoracic cavity,537,1829,116,17
+3,expands,124,1850,65,17
+3,reduces,537,1846,62,15
+3,Quiet,1032,1831,132,44
+3,Nasal,1340,1830,138,44
+3,External intercostal,125,1888,146,15
+3,External intercostal,538,1884,147,14
+3,muscles contract,124,1907,135,14
+3,muscles relax,537,1902,111,14
+3,Diaphragm,125,1965,83,16
+3,Diaphragm,329,2093,76,16
+3,contracts,329,2112,63,12
+3,Diaphragm,715,2107,76,16
+3,relaxes,715,2125,50,13
+3,Image Credit: OpenStax College,571,2169,354,26
+3,Long Covid Workbook 27,1218,2229,323,29
+4,LM FLIGHT PLAN,106,830,43,397
+4,MCC-H,164,1767,26,99
+4,1253 CST,154,1532,25,122
+4,CDR,165,1135,25,61
+4,LMP,165,666,26,58
+4,NOTES,163,250,27,104
+4,136:00,202,1535,24,90
+4,POST SLEEP (CONT),217,1108,30,255
+4,:10,388,1533,24,43
+4,UPDATE TO LM,436,1774,24,186
+4,LIFT-OFF TIMES FOR,466,1684,24,277
+4,REVS 26-32,496,1778,23,151
+4,:20,572,1533,24,42
+4,S,712,1451,23,14
+4,T,743,1450,23,15
+4,136:30,758,1533,23,90
+4,D,774,1450,22,15
+4,N,806,1450,22,14
+4,EAT PERIOD,933,874,23,153
+4,:40,944,1531,24,41
+4,:50,1129,1530,24,43
+4,GDS 210' AOS,1183,249,24,181
+4,137:00,1313,1529,24,90
+4,MISSION,1353,1573,25,132
+4,EDITION,1354,1342,25,124
+4,DATE,1353,1076,24,77
+4,TIME,1352,738,24,71
+4,DAY/REV,1353,385,27,140
+4,PAGE,1354,215,25,85
+4,APOLLO 17,1389,1567,24,136
+4,FINAL (12/6),1390,1316,31,178
+4,10/23/72,1381,1059,28,118
+4,136:00 - 137:00,1391,661,24,225
+4,7/25,1394,416,26,61
+4,3-172,1395,219,23,74
+4,FLIGHT PLANNING BRANCH,1432,791,26,425
+4,SIGNATURE,1566,192,49,80
+5,Hearing,118,113,132,32
+5,Listening to music,172,168,234,31
+5,"Listening to the sound of nature, such as waves or bird sounds",172,220,817,33
+5,Listening to an audio-book or a guided imagery exercise,172,274,725,32
+5,Listen your favourite TV show or movie,173,328,509,31
+5,Smell,117,385,93,26
+5,Smell scented candles,172,439,286,25
+5,"Favourite perfume, body mist, body cream",173,493,550,32
+5,Cook a meal that smells delicious,172,546,427,26
+5,"Go to a place where you might enjoy the smell (park, flower shop, perfume shop, bakery, restaurant)",172,598,1310,34
+5,Taste,116,658,93,25
+5,Cook or buy your favourite meal and eat it slowly,172,711,634,32
+5,Make a cup of coffee/tea/smoothie,173,764,456,32
+5,Chewing gum with your favourite flavour,172,818,558,32
+5,Eat some fruit,173,871,179,26
+5,Touch,116,930,103,25
+5,Cuddle your pet,173,983,217,31
+5,Hug someone who you care about,173,1036,443,32
+5,Cuddle under a blanket,172,1090,303,26
+5,"Touch/wear any fabric that seems soothing to you (something smooth, velvety, fluffy)",170,1142,1112,34
+5,Hot/cold showers,172,1197,230,30
+5,Hot water bottle,173,1250,211,26
+5,Think about what you find relaxing and try to do those activities when feeling stressed. It can be helpful to use,116,1308,1392,33
+5,techniques that have worked before by making you feel safe and relaxed.,116,1345,917,32
+5,Feel free to ask friends and family for their own ideas but remember that what works for one person does not,118,1405,1377,33
+5,work for others.,116,1443,207,26
+5,Long Covid Workbook 51,1218,2229,323,29
+6,THE BOOK COLLECTOR,396,120,308,16
+6,"The Society grew out of the Ex Libris Society, founded in 1891. Ex",178,190,771,29
+6,"Libris ran for eighteen years with a well-illustrated journal, something its",150,223,799,29
+6,"descendant follows today. Out of it sprang The Bookplate Exchange Club,",151,257,796,29
+6,"which survived for eighty years until 1972 when the late Brian North Lee,",151,290,797,29
+6,"the doyen of bookplate studies, and its last secretary, Peter Summers FSA,",150,323,798,29
+6,founded The Bookplate Society. Fifty years on the Society actively pro-,151,357,798,30
+6,"motes, explores and explains these miniature signs of ownership, focusing",151,390,799,29
+6,"as much on designers as on owners. The humble bookplate, often not even",150,423,799,29
+6,"mentioned in book auctions and catalogues, is now becoming noted and",151,457,798,29
+6,"any collector interested in their books' personal history, will find much",150,490,799,29
+6,"of interest in The Bookplate Society publications, as it delves into allied",151,523,798,29
+6,"interests of heraldry, printing, engraving and graphic arts. The bookplate",150,556,799,30
+6,"is often a work of art, SO it is not surprising that when the British Museum/",151,590,798,29
+6,"Library split, the Bookplate collection donated by Franks and others",150,623,799,29
+6,should reside with prints and drawings.,150,657,424,29
+6,"A similar anniversariant is THE OXFORD GUILD OF PRINTERS, which",179,690,770,25
+6,last year celebrated its fortieth birthday. Since 2013 it has circulated to,150,722,799,30
+6,"its entire membership (which now stands at 140) an autumnal package,",150,757,798,29
+6,"eagerly awaited, of letterpress ephemera produced by its members during",150,790,799,29
+6,the year. In this delightful bouquet may be found in every font under the,151,823,799,29
+6,"sun a running commentary on politics, social affairs, the health of the book",150,857,799,30
+6,trade and the prowess (as it has latterly been) of the England cricket team.,151,890,797,30
+6,"Alas, in the latest newsletter from Liz Adams, the Editor, comes the news",151,922,798,26
+6,that the OGP is entering a state of dormancy owing not to the lack of,151,956,803,30
+6,money (hooray!) but to the absence of volunteers for the positions of Chair,151,990,799,29
+6,and Secretary. Hands up anyone?,151,1023,360,29
+6,Despite his first purchase having been the greatest penance that was ever,150,1123,799,29
+6,"heaped upon a student, Green's four-volume History of England, CLAR-",151,1156,797,30
+6,ENCE WOLF has gone on to become one of America's most renowned,151,1190,797,29
+6,booksellers. Last year he published in a privately printed edition Fifty,150,1223,799,30
+6,"Years a Bookseller : or, The Wolf at Your Door. Although it is principally",153,1257,796,30
+6,"concerned with American people and events, its appeal will be universal",151,1290,799,29
+6,for the book trade is nothing if not international. The contents are extraor-,150,1323,798,29
+6,dinarily congenial and much as you'd expect from the title. It has three,151,1357,798,29
+6,"faults. One is the absence of an index, with consequences that need no ex-",151,1390,798,29
+6,"planation. The second, which is related to the first, is that the book appears",151,1422,799,30
+6,to be an assembly of characters and incidents that the reader knows for sure,151,1456,799,29
+6,will be connected and in some way form a coherent story if only he or she,151,1489,799,29
+6,could but locate the connections. One can only use SO many bookmarks,151,1522,798,29
+6,144,531,1598,38,18
+6,SIGNATURE,529,1596,42,23
+7,EARLY BOOKS AND EARLY READERS AT NOSTELL PRIORY,198,120,702,15
+7,"of Nicholas de Lyra, now in the Thomas Fisher Library, Toronto",151,173,798,32
+7,"University. In 2012, Peter Kidd identified a further important frag-",152,210,797,33
+7,"ment. Los Angeles Public Library holds one quire of eight leaves,",151,247,797,32
+7,"with sewing thread still intact, one partial quire of six leaves, and",151,284,797,33
+7,"twelve individual leaves, some of them consecutive, others isolated,",151,323,796,28
+7,from a 13th-century miscellany associated with the Priory. The,151,360,799,32
+7,"fragments survive with a portion of their original binding, and the",151,398,799,32
+7,front and rear pastedowns. 3,151,434,326,32
+7,"It is difficult to say anything with certainty about the creation,",178,473,770,32
+7,"housing and use of monastic books at Nostell, as SO little contextual",151,510,799,32
+7,"evidence survives, either locally or nationally. Only ten book lists",151,547,798,33
+7,"from Augustinian foundations in England are known, and with the",151,585,799,31
+7,"exception of Llanthony Secunda Priory in Gloucester, where some",151,623,799,32
+7,"140 books are recorded, only ten Augustinian houses have more than",152,660,797,32
+7,"ten volumes surviving from their libraries.4 The Priory of Merton,",151,696,797,33
+7,"for example, was one of the largest in England and its Registrum lists",151,735,799,32
+7,"more than 230 titles, yet today only twenty-nine volumes survive,",151,773,797,32
+7,"while Leicester Abbey owned more than 1,000 volumes, of which",151,810,799,32
+7,fewer than twenty are known.,151,847,362,32
+7,5,513,846,9,14
+7,The Augustinian rule was not prescriptive in its approach to the,178,885,772,32
+7,"conduct of religious life, leading to variation in approaches to the",151,922,798,33
+7,chapter of the rule concerned with reading and writing. In England,151,960,798,32
+7,"2. Desiderius Erasmus, De ratione studii ac legendi (Col: Argentorati: apud Iohannem",150,1034,799,26
+7,"Heruagium, 1524), Purgatio aduersus epistolam non sobriam Martini Luteri (Parisiis : apud",150,1064,799,26
+7,"Ioannem Roigny, 1534), De puritate ecclesiae Christianae (Parisiis: ex officina Christiani",150,1093,799,25
+7,"Wecheli, 1536), and De sarcienda ecclesiae concordia (Parisiis : excudebat Christianus",151,1122,798,25
+7,"Wechelus, 1533). University of Wales Trinity Saint David, Roderic Bowen Library",151,1151,798,25
+7,"and Archives; Founders Library, ODS 02691, inscribed: 'Pertinet ad dominum Sancti",150,1181,799,24
+7,"Oswaldi de Nostell'. Biblia latina (Nuremberg: Anton Koberger, [1486-]87 - ISTC",151,1209,797,26
+7,"iboo614000), Toronto University Library, RB 9689, inscribed: 'Restat Monasterio",151,1239,798,25
+7,"sancti Oswaldi de Nostell'. Both are recorded in N. R. Ker, Medieval Libraries of Great",150,1268,800,25
+7,"Britain A List of Surviving Books. Supplement to the Second Edition, edited by Andrew G.",151,1296,796,26
+7,"Watson (London: Royal Historical Society, 1987), p. 51.",154,1326,519,25
+7,"3. Los Angeles Public Library. The manuscript is currently uncatalogued, SO does not",151,1356,799,26
+7,have a shelf mark. The author is extremely grateful to Peter Kidd for generously shar-,150,1384,799,26
+7,"ing his research notes on the Los Angeles Miscellany, see: https://mssprovenance.blog",150,1413,788,27
+7,pot.com/2012/I2/an-unknown-ms-from-nostell-priory.html,158,1443,577,26
+7,"4. T. Webber and A. G. Watson, eds, The libraries of the Augustinian Canons, Corpus of",150,1472,803,25
+7,"British medieval library catalogues, vol. 6, pp. xxii-xxiii.",151,1500,530,26
+7,"5. The libraries of the Augustinian Canons, p. xxvii.",150,1531,458,25
+7,45,537,1609,26,18
+7,SIGNATURE,536,1606,26,24
+8,6.18,234,196,70,29
+8,SUMMA phinning,717,202,194,43
+8,Stephen C (am,227,253,186,48
+8,PHILOSOPHLE,603,251,352,39
+8,Books.,284,284,97,37
+8,"QUADRIPARTITA,",629,295,300,35
+8,"De rebus Dialecticis, Ethicis, Phyfi-",603,333,349,39
+8,davips sudams,199,349,221,78
+8,"dis, & Metaphyficis ;",667,363,212,37
+8,Autore,739,404,79,25
+8,1697,385,417,53,37
+8,F R. BUSTACHIO,605,431,347,34
+8,"A S. Paulo, ex Congregatione",615,466,321,34
+8,Impos Came,198,483,171,69
+8,Borke GST,399,480,146,53
+8,"Fulienfi, Ordinis Cifter-",646,494,254,32
+8,cienfis,738,526,82,25
+8,16zy,213,580,68,39
+8,Infuntis mendis reparges,675,568,193,31
+8,the,614,619,42,30
+8,Slophea,582,702,98,48
+8,RESYROD,780,737,86,35
+8,Borbe,894,741,60,30
+8,J,812,758,62,48
+8,Baglamin,882,782,65,31
+8,"CANTABRIGINE,",698,834,144,24
+8,Ex officina Regist DARIELTS almz Acade.,595,850,349,31
+8,mia Typographi. 010.10c.xu,645,874,251,27
+8,Fig. 7: The ownership inscriptions of Joseph Ludlam (c. .1626-1678) and Stephen,176,1453,747,47
+8,Ludlam (1658-1722) and an example of the price inscription found on all Ludlam,172,1484,756,45
+8,books (©National Trust Images/Robert Thrift).,323,1519,453,37
+9,THE BOOK COLLECTOR,409,120,282,15
+9,of a college library in the American colonies. Unlike the Harvard,151,173,798,32
+9,"Catalogus of 1723, which Thomas Hollis criticised for being ordered",153,210,797,32
+9,"only by initial letter, Yale's catalogue was fully alphabetised and",151,248,798,32
+9,"also categorised 'under proper Heads' - that is, by subject as well as",150,284,798,32
+9,by author.,151,323,123,31
+9,Whether or not the Yale catalogue was actively used to solicit,179,360,770,32
+9,donations is unclear - considering the abundance of positive,151,398,799,32
+9,"evidence for other printed pieces, perhaps it was not - but it was",150,435,799,32
+9,"certainly designed more for users than for donors, representing an",151,473,798,32
+9,important departure from the approach of the Harvard Catalogus.,151,510,797,32
+9,Thomas Clap's preface is not grandiloquent and aimed at those,151,548,799,32
+9,unfamiliar with the college; it is remarkably brief - hardly two,151,585,798,32
+9,pages long - and addressed 'To the Students of Yale-College.4,151,622,792,33
+9,Yale's catalogue is physically unimpressive and highly functional.,151,660,796,32
+9,"It reflects a transitional moment for libraries, for philanthropy and",150,698,798,32
+9,"indeed for the American colonies. By 1743, Yale's library might",150,735,799,32
+9,"not have been ideally stocked, but it served a college more amply",150,773,799,33
+9,resourced than it had ever been and a colony with better access to,151,809,798,32
+9,local learning than it had ever had. Yale no longer needed to make,151,848,799,32
+9,obsequious cries of poverty abroad: with the publication of the,152,885,798,32
+9,"1743 catalogue, the college ceased to advertise its weaknesses and",152,922,796,33
+9,began to assert its strengths.,151,960,331,32
+9,"Portable, relatively inexpensive, produced in quantity, the library",178,998,771,32
+9,catalogue as a form of printed matter uniquely enabled transatlantic,151,1035,799,32
+9,philanthropy in the early 18th century. College leaders and their,152,1072,797,33
+9,agents abroad worked together to build a strategic network of,150,1110,803,32
+9,influential supporters for the cause of colonial education. The first,150,1147,799,32
+9,Harvard library catalogue in particular was created as a tool for,150,1184,799,32
+9,"salesmanship, meant in the short term to increase the library's hold-",151,1222,798,33
+9,ings and only in the longer term to advance the learning that might,151,1260,798,32
+9,result. The underlying irony of flibrary-building in this period is that,151,1298,799,32
+9,"by underscoring the poverty of colonial education, catalogues and",150,1335,798,33
+9,the agents who deployed them succeeded in vastly enriching it.,151,1373,746,32
+9,"42. A Catalogue of the Library of Yale-College in New-Haven, [A2r].",150,1530,616,25
+9,78,536,1603,27,24
+10,"16 Lambeth 2030 Our Future, Our Lambeth",78,75,454,20
+10,"Lambeth 2030 Our Future, Our Lambeth",2772,75,412,20
+10,17,3200,75,26,19
+10,DIVERSE,322,352,328,57
+10,SAFE,1042,353,280,85
+10,BOROUGH,321,447,262,39
+10,AREAS,1080,471,243,56
+10,VIBRANT,317,522,226,38
+10,PARKS,1153,562,170,40
+10,"Our Future, Our Lambeth",1810,515,1120,88
+10,CARE,319,588,117,32
+10,FAIR,322,682,182,63
+10,FRIENDLY,1136,696,188,30
+10,INCLUSIVE,320,776,231,35
+10,PEOPLE,1085,754,237,47
+10,Our Vision Statement,1810,740,593,48
+10,WELCOMING,318,844,316,37
+10,THRIVING,1035,832,287,46
+10,Lambeth - a borough with social and climate justice,1811,844,1234,48
+10,at its heart. By harnessing the power and pride of our,1810,899,1270,48
+10,GREEN SPACES,521,938,249,25
+10,PARKS,521,977,108,25
+10,LAMBETH,1196,981,255,40
+10,"people and partnerships, we will proactively tackle",1810,955,1202,47
+10,SPACES,521,1017,128,25
+10,inequalities so that children and young people can have,1810,1011,1321,48
+10,the best start in life and so everyone can feel safe and,1809,1065,1282,49
+10,SUSTAINABLE,517,1104,268,30
+10,AFFORDABLE,1193,1105,220,25
+10,SHOPS,1194,1144,112,26
+10,thrive in a place of opportunity.,1809,1122,737,48
+10,LOCAL,518,1156,191,43
+10,OPPORTUNITY,1194,1183,236,26
+10,Our Commitments,1810,1226,437,39
+10,Our 2030 Ambitions,2503,1227,465,38
+10,The vision,155,1299,240,38
+10,Our Commitments,849,1299,438,39
+10,for Lambeth,1808,1282,291,38
+10,The Golden Thread - A Borough of Equity,2501,1309,515,28
+10,and Justice,2502,1342,143,22
+10,for Lambeth,848,1355,290,38
+10,1. We get the basics right and deliver great,1810,1363,565,28
+10,Through listening and building on what we already,155,1382,598,27
+10,public services that fit what people need,1842,1397,534,27
+10,"know, we've created a vision for the future of",157,1415,533,25
+10,1. Making Lambeth Neighbourhoods,2503,1409,453,27
+10,To deliver this vision requires individual and collective,848,1437,627,27
+10,-,1821,1448,11,7
+10,Lambeth that's rooted in what people want. This is a,156,1449,625,27
+10,We will take a one borough approach to deliver,1840,1439,584,28
+10,Fit for the Future,2535,1441,204,23
+10,vision that belongs to everyone.,155,1482,377,27
+10,commitment and action. This means the Council and,849,1471,630,22
+10,our services consistently and well,1841,1472,416,27
+10,Lambeth's communities and organisations coming,849,1504,599,27
+10,2. Making Lambeth One of the Safest,2502,1507,464,27
+10,Achieving this future vision of Lambeth comes down,155,1549,622,27
+10,together and standing as one to transform the ways,850,1538,616,27
+10,2. People have a say and stake in the decisions,1809,1537,623,28
+10,Boroughs in London,2534,1540,251,27
+10,"to all of us. We are all connected, and we all have a",155,1582,612,26
+10,we work.,848,1572,109,21
+10,that matter,1841,1571,148,22
+10,"stake in Lambeth to make it the best place to live,",156,1615,592,27
+10,- We will be a listening and open borough that,1821,1612,571,27
+10,3. Making Lambeth A Place We Can All,2502,1604,486,28
+10,work and visit in the UK.,155,1649,289,22
+10,"By listening to our communities, understanding their",849,1638,620,27
+10,recognises and values our community voices,1841,1645,557,27
+10,Call Home,2534,1639,129,22
+10,"experiences, and aligning our priorities with theirs, we",849,1671,636,27
+10,From our conversations we know people agree with a,156,1715,640,27
+10,"can build confidence between Lambeth's institutions,",849,1704,634,26
+10,"3. We work together in partnership, to harness",1809,1710,614,28
+10,group of core priorities and ambitions for the future of,156,1749,637,27
+10,"businesses, community groups and organisations,",849,1738,597,27
+10,what makes Lambeth special,1840,1743,388,28
+10,Lambeth. They are ready to come together and bring,156,1782,632,28
+10,"and residents, and we can ensure that the changes",849,1771,611,27
+10,- We will collaborate with our people and partners,1821,1784,616,28
+10,"this vision to life, and there is also strong support in",155,1815,609,28
+10,"we make, and the partnerships we form, are all",848,1804,561,28
+10,to innovate and implement together,1847,1818,445,27
+10,"the shift towards taking a longer-term view, SO that we",155,1849,645,27
+10,"contributing to improving the lives of those who live,",849,1838,615,28
+10,are ready for the unforeseen challenges of the future.,155,1882,626,28
+10,"work, learn and visit our borough.",848,1871,399,27
+10,"4. We are accessible, transparent and we stand",1808,1883,625,27
+10,up to challenges,1840,1916,219,27
+10,- We will focus on what our residents want and be,1821,1956,620,23
+10,"honest about what we can and can't do, whilst",1841,1990,580,25
+10,being courageous to take bold action,1841,2024,462,27
+11,"26 I Lambeth 2030 Our Future, Our Lambeth",77,72,456,25
+11,Lambeth 2030 Our Future,2772,73,260,23
+11,impacting lifelong health - this needs to change now.,155,741,631,35
+11,the forefront of Lambeth's partnerships and strategies;,848,741,637,35
+11,Whilst we have an array of programmes underway,155,775,599,35
+11,"as highlighted in the Health and Wellbeing Strategy,",848,774,644,36
+11,"to clean up Lambeth's air, the work we do with",155,809,556,30
+11,SO it is a place where all people can experience good,849,808,622,35
+11,our partners and local communities will need to,156,842,563,30
+11,health and wellbeing and where healthy life expectancy,849,841,645,35
+11,go further and act more quickly in order to achieve,156,875,600,32
+11,is improved for those groups within the population,848,875,588,34
+11,our objectives.,156,910,172,28
+11,whose outcomes are the poorest.,848,910,396,31
+11,Healthy active lives,159,981,454,50
+11,Central to our collective approach is ensuring that,849,974,591,35
+11,every Lambeth resident has the best start in life.,849,1009,569,30
+11,"Through our local partnerships, we will develop safe",848,1041,618,34
+11,Good health and wellbeing are fundamental to us,156,1063,587,34
+11,and secure places for young people and children,848,1075,581,33
+11,leading full and rewarding lives and it is our ambition,155,1097,620,33
+11,"to socialise and develop their personal skills,",848,1109,528,32
+11,that Lambeth is a place where people are able and,155,1130,605,33
+11,through supporting positive emotional health and,848,1141,583,32
+11,supported to have this.,156,1167,274,28
+11,wellbeing including helping our most disadvantaged,848,1175,617,34
+11,"However, we know across Lambeth the benefits",157,1230,572,29
+11,young people with access to sports facilities and,848,1210,580,31
+11,training programmes.,848,1243,254,30
+11,"of good physical, mental and social wellbeing are",155,1264,585,34
+11,not being felt by everyone. Healthy life expectancy,156,1297,597,34
+11,Alongside our vision that all young people have the,848,1308,606,34
+11,"unfairly differs in different areas of the borough, with",156,1330,614,34
+11,best start is that we enable our residents of all ages,849,1341,613,34
+11,"the poorest communities and those from Black,",155,1365,566,32
+11,to live fulfilling and rewarding lives. Our residents must,848,1375,642,34
+11,Asian and Multi-Ethnic backgrounds having the worst,155,1397,638,34
+11,have access to high-quality health and leisure services,849,1408,646,33
+11,outcomes across a wide range of health measures.,155,1431,609,32
+11,"and by working with our health partners, businesses",849,1441,622,33
+11,and by recognising the value of community groups,848,1475,602,34
+11,"Through our Lambeth Together Care Partnership,",155,1497,627,35
+11,"in supporting better health, we will focus on the",848,1508,564,31
+11,"bringing together the NHS, local authority, the",156,1531,536,33
+11,prevention of long-term conditions and support,849,1542,562,33
+11,"voluntary sector and others, we are focussed on",155,1565,569,30
+11,those at risk of physical and/or mental health issues,848,1576,617,32
+11,improving health and wellbeing in Lambeth and,155,1597,555,33
+11,to access the right early help and resources. This,848,1609,585,32
+11,reducing inequalities for people in Lambeth through,156,1630,604,34
+11,requires a whole systems approach and a focus to,849,1641,602,33
+11,an integrated health and care system. We must,155,1665,558,32
+11,continue to work collectively and draw on our shared,156,1697,621,32
+11,support our most vulnerable by developing inclusive,849,1677,618,32
+11,"intelligence about the borough, listen to local people",155,1730,613,34
+11,and innovative programmes and sports partnerships,848,1708,623,34
+11,"across health, leisure and a range of activities. As",848,1742,587,33
+11,to understand the needs of their communities and,154,1765,589,28
+11,build our understanding of what really works to tackle,156,1797,627,33
+11,"part of this, we will create environments that promote",849,1775,633,35
+11,"active travel, physical activity and healthy choices.",849,1809,594,33
+11,health inequalities. Lambeth is working together in,156,1830,587,34
+11,From increasing spaces for people to connect around,849,1841,638,33
+11,"partnership, with action already underway, connecting",156,1864,633,34
+11,"their health, as well as their areas and communities to",848,1875,640,30
+11,us together and enabling us to address these,155,1898,534,32
+11,challenges and better understand the impact of wider,156,1931,630,32
+11,improving the availability and consumption of healthy,848,1908,629,35
+11,"and affordable food in Lambeth, there are remarkable",849,1941,635,31
+11,"determinants of health such as housing, the economy,",156,1964,635,34
+11,solutions happening across the borough to help,848,1976,570,34
+11,"employment and the environment on local inequalities,",156,1998,637,33
+11,people flourish.,849,2011,180,28
+11,with a clear focus on prevention. It is through this,155,2030,577,34
+11,continued cross-organisational working and civic,155,2065,574,33
+11,involvement that we can put health and wellbeing at,155,2097,610,34
+12,MCC-H,286,1812,28,104
+12,0053 CST,271,1606,28,125
+12,FLIGHT PLAN,228,954,52,321
+12,NOTES,279,238,30,107
+12,244:00,324,1591,26,93
+12,SIM EXP STATUS,336,261,33,217
+12,(*0001),368,324,34,104
+12,(01001),400,324,34,104
+12,DAP LOAD STATUS,430,247,33,232
+12,(11101) (01111),460,263,38,212
+12,:20,512,1587,25,43
+12,:40,702,1586,26,44
+12,S,840,1514,24,15
+12,T,871,1513,24,16
+12,245:00,891,1586,27,93
+12,REST PERIOD,872,916,30,173
+12,D,903,1512,24,16
+12,UV/PTC,874,572,29,93
+12,(8 HOURS),902,934,35,134
+12,N,935,1512,24,17
+12,GALACTIC SCAN,904,524,30,203
+12,:20,1082,1583,25,42
+12,:40,1269,1582,24,43
+12,246:00,1455,1580,26,93
+12,MISSION,1498,1636,28,134
+12,EDITION,1496,1404,28,127
+12,DATE,1495,1128,27,79
+12,TIME,1493,785,27,72
+12,DAY/REV,1489,420,30,140
+12,PAGE,1489,254,27,87
+12,APOLLO 17,1542,1635,28,139
+12,FINAL (12/6),1541,1389,34,181
+12,10/23/72,1537,1111,28,124
+12,244:00 - 246:00,1538,714,29,235
+12,11/TEC,1537,450,28,91
+12,3-357,1533,264,25,73
+12,FLIGHT PLANNING BRANCH,1573,789,37,437
+13,CSM FLIGHT PLAN,218,910,32,307
+13,129:00,296,1850,17,60
+13,SIM EXP STATUS,297,1136,18,139
+13,129:30,292,978,16,58
+13,CMDS: (AOS +68 MIN),298,694,23,187
+13,SIM EXP STATUS,293,269,18,136
+13,(P20),316,1871,21,46
+13,(+0111),317,1168,20,65
+13,(P20),309,1001,19,44
+13,(2.5°08),337,1842,20,74
+13,(01011),339,1168,19,65
+13,(2.5°08),329,971,20,73
+13,DSE RECORD,320,761,17,100
+13,(+0111),313,300,20,64
+13,(01011),334,301,19,63
+13,(11101),367,1852,20,64
+13,(11101),359,981,20,64
+13,(_1111),388,1852,21,64
+13,(_iii),379,980,21,64
+13,:10,696,1851,16,28
+13,:40,694,979,15,28
+13,REST PERIOD,887,1415,17,109
+13,REST PERIOD,881,546,18,110
+13,D,912,1808,15,11
+13,(8.0 HOURS),906,1416,21,106
+13,(8.0 HOURS),901,547,21,105
+13,:20,1095,1852,16,29
+13,:50,1093,979,16,28
+13,CMDS: (AOS +60 MIN),1186,1564,23,188
+13,DSE REWIND,1208,1631,17,100
+13,REV 22,1279,982,18,59
+13,129:30,1493,1852,17,58
+13,130:00,1491,981,17,59
+13,MISSION,1541,1313,18,93
+13,EDITION,1540,1110,19,90
+13,DATE,1540,881,17,54
+13,PAGE,1539,732,17,60
+13,APOLLO 17,1571,1313,17,89
+13,FINAL (12/6),1570,1094,21,117
+13,10/23/72,1569,868,17,76
+13,3-159,1568,736,17,49
+14,Start low and go slow,125,107,373,31
+14,6,899,127,20,29
+14,No exertion,1000,130,149,22
+14,This chart on your right shows the Borg Scale,123,177,617,31
+14,7,898,189,20,29
+14,which helps to measure how short of breath,123,214,596,31
+14,you are.,123,258,107,25
+14,8,898,252,20,29
+14,Very light,1014,253,121,28
+14,"You should aim to be in the 'green', between",123,321,603,31
+14,9,898,315,20,29
+14,"11 and 13, when undertaking activity.",126,358,506,31
+14,10,888,377,42,29
+14,"Breathing a bit deeper, but",1211,365,270,23
+14,still comfortable,1210,394,164,20
+14,You must start at a safe level for you,123,428,635,32
+14,11,888,439,41,30
+14,Light,1045,441,61,28
+14,Other people may find that they can manage,124,499,608,32
+14,"Breathing harder, but still",1211,490,255,23
+14,12,888,503,41,29
+14,able to hold a conversation,1210,519,274,20
+14,to walk for 5 minutes. For example:,123,536,480,31
+14,Walking 5 minutes twice a day on Day 1,171,576,540,31
+14,13,888,565,41,29
+14,Somewhat hard,975,567,197,24
+14,Increase this very cautiously when you feel,171,615,583,31
+14,14,888,627,42,30
+14,comfortable to do so (have been consistently in,172,652,640,32
+14,Starting to breathe hard and,1210,677,284,23
+14,the 'green'),171,689,154,31
+14,15,888,692,40,29
+14,Hard,1044,694,63,23
+14,uncomfortable,1210,710,149,20
+14,Some people will find that marching on the,124,755,592,32
+14,16,888,755,41,30
+14,spot for 1 minute may be enough to start,124,791,561,32
+14,with. For example:,124,828,260,31
+14,17,888,818,41,29
+14,Very Hard,1012,820,125,28
+14,Marching on the spot for 1 minute several times,173,868,648,32
+14,18,888,880,41,29
+14,on Day 1,172,906,118,29
+14,Increase this very cautiously when you feel,171,945,582,32
+14,19,888,943,41,30
+14,Extremely hard,1210,947,153,22
+14,comfortable to do so (have been consistently in,172,982,640,31
+14,the 'green'),171,1019,153,32
+14,20,887,1006,43,30
+14,Maximal exertion,965,1008,220,22
+14,There may be some people who need to be more,123,1077,668,31
+14,"careful when making exercise harder. For example, you may need to increase your workout time every 3 -",124,1114,1416,32
+14,"4 days, instead of every day. It is important that you do what is safe for you and if you don't know,",124,1150,1335,32
+14,speak to a healthcare professional able to help you.,124,1187,695,32
+14,Remember:,169,1315,224,32
+14,Building up activity levels is not straightforward.,224,1383,820,40
+14,Keep going back to what feels right for you and use the Borg scale to help.,224,1451,1285,40
+14,It can vary from day-to-day.,223,1518,483,40
+14,Listen to your body and adjust accordingly.,224,1585,735,41
+14,22 Long Covid Workbook,118,2228,334,29
+15,THE BOOK COLLECTOR,408,120,282,15
+15,when theatres could present whatever they chose - but they were,151,173,799,33
+15,still subject to censorship.),151,210,310,31
+15,The secondary theatres were:,177,248,349,31
+15,"Théâtre du Vaudeville, reserved for short plays in couplets or with",173,284,776,33
+15,popular tunes,150,323,162,32
+15,"Théâtre des Variétés, for short, ribald rustic plays of low-life and",174,360,775,32
+15,the peasantry,151,398,158,32
+15,"Théâtre de la Porte Saint-Martin, for melodrama, light operas,",174,434,774,33
+15,ballets and spectacles,150,473,246,32
+15,"Théâtre de la Gaîté, for pantomimes of all sorts (but not ballet),",173,510,774,32
+15,harlequinades and farces.,150,548,294,32
+15,"A third category was also authorised, the Petits théâtres, also called",179,585,770,32
+15,"Forains, for performing animals, acrobats, puppet shows and the",151,623,798,32
+15,"like, which in Paris came to include the Théâtre des Funambules, the",150,659,799,28
+15,"Petit Lazari, the Théâtre Acrobate de Madame Saqui, the Cirque",151,698,798,32
+15,Olympique and the peripatetic tents and booths set up in the capital,151,735,798,32
+15,and throughout the countryside.,150,773,386,32
+15,Censorship became a large part of the government's regulation of,179,809,776,33
+15,the theatre and was used to suppress any ideas that might encourage,151,848,798,32
+15,"anti-government or dissident views, especially in the theatres that",151,884,798,32
+15,"catered to the working class, whose activities were frequently under",151,922,798,33
+15,surveillance by the police. A Gagliani guide to Paris mentions the,151,959,798,33
+15,"'degeneracy' of the 'public taste'. In fact, the theatre was among the",152,998,797,32
+15,"most highly censored artforms of the time, (caricature was similarly",151,1035,798,32
+15,"controlled), with theatre censorship lasting until 1906. 11 Even the co-",151,1071,797,34
+15,lour of the paper for posters was regulated (white paper was reserved,150,1110,798,32
+15,for the government while specific colours were assigned to the,151,1148,799,32
+15,"various theatres). Additionally, all posters were required to be uni-",151,1184,798,33
+15,"form in size, and a new law enacted in 1852 mandated that all theatre",151,1223,799,29
+15,posters had to be submitted to the Commission d'examen des ouvrages,151,1260,800,32
+15,dramatiques before being sent to the police for final authorisation. 12,151,1296,773,34
+15,"10. Galignani's New Paris Guide (1839), p. 455.",151,1356,423,25
+15,"11. e.g., Odile Krakovitch (curator at the Archives Nationales de France) discovered",151,1384,798,26
+15,"that in 1852, French censors examined 682 plays, of which 59 were forbidden, 323 un-",151,1413,798,26
+15,"derwent modifications and 54 were awaiting consideration, leaving only 246 (36%)",151,1443,797,25
+15,"authorised plays. See Frederic William John Hemmings, Theatre and State in France,",150,1472,797,26
+15,"1760-1905 (1994), p. 220.",152,1501,222,25
+15,"12. Brander Matthews The Theatres of Paris (New York, 1880), p. I3.",151,1530,638,26
+15,28,537,1603,25,19
+16,CSM FLIGHT PLAN,202,926,33,313
+16,172:00,272,1885,17,61
+16,SIM EXP STATUS,271,1162,18,141
+16,(P20),290,1909,19,46
+16,172:30,276,993,17,60
+16,SIM EXP STATUS,272,269,18,139
+16,(+0011),291,1194,19,66
+16,(P20),292,1017,20,46
+16,(2.5°DB),310,1880,20,76
+16,(+0011),293,301,19,66
+16,(01011),312,1194,20,66
+16,(2.5°08),313,986,20,77
+16,(01011),313,301,20,66
+16,(11101),341,1890,21,66
+16,(_1111),361,1888,21,67
+16,(11101),344,996,20,67
+16,(_un),364,996,22,66
+16,CMDS: (AOS +13 MIN),392,1596,22,191
+16,DSE REWIND,414,1666,17,102
+16,:10,678,1888,17,29
+16,:40,684,994,15,29
+16,CMDS: (AOS +21 MIN),718,1599,22,190
+16,DSE PLAYBACK,741,1647,17,122
+16,REST PERIOD,864,1447,17,111
+16,(8.5 HOURS),883,1449,20,106
+16,REST PERIOD,875,549,17,111
+16,D,906,952,16,12
+16,(8.5 HOURS),895,551,20,107
+16,:20,1088,1891,16,29
+16,:50,1091,996,16,29
+16,CMDS: (AOS +60 MIN),1090,701,22,191
+16,DSE REWIND,1112,771,16,101
+16,CMDS: (AOS +68 MIN),1417,701,21,191
+16,DSE RECORD,1439,771,16,101
+16,172:30,1494,1892,16,60
+16,173:00,1498,997,17,61
+16,MISSION,1553,1345,18,95
+16,EDITION,1554,1136,18,90
+16,DATE,1555,903,16,54
+16,PAGE,1555,750,17,61
+16,APOLLO 17,1587,1342,16,91
+16,FINAL (12/6),1585,1128,21,119
+16,10/23/72,1583,889,18,80
+16,3-245,1585,753,16,49
+17,BON DROIT,468,737,161,26
+17,WILLIAM WINDHAM,425,800,227,22
+17,ESQUIRE,485,826,106,28
+17,William Windham's bookplate.,401,1497,297,25
+17,"Courtesy of The Lewis Walpole Library, Yale University.",278,1528,542,25
+18,FOCUS ON,1058,105,406,47
+18,"Once values have been identified, think about how you can try do",104,201,894,32
+18,VALUES,1094,183,301,47
+18,activities with these and your symptoms in mind.,105,238,650,31
+18,rather than goals,1057,265,400,37
+18,You will also find below a link to videos relating to values and taking life into a,304,472,1059,31
+18,meaningful direction.,688,514,293,32
+18,The Choice Point: A Map for a Meaningful Life by Dr. Russ Harris:,396,572,874,31
+18,https://www.youtube.com/watch?v=OV15x8LvwAQ,497,615,685,31
+18,Values vs Goals by Dr. Russ Harris,602,673,464,31
+18,https://www.youtube.com/watch?v=T-IRbuy4XtA,499,730,670,32
+18,54 Long Covid Workbook,118,2228,334,30
+19,Dizziness,725,126,204,35
+19,The word 'dizziness' means different things to different people; some use it to describe feeling,116,215,1272,32
+19,"lightheaded or off balance, while others use it to describe a feeling that their surroundings are spinning.",117,253,1404,33
+19,This can often make people to feel anxious or stressed. Stress can make you breathe quicker and more,116,314,1385,31
+19,"shallow, which can make you feel dizzy. If you are affected in this way, your symptoms may feel worse",117,351,1385,32
+19,and you may need some help to manage this.,117,388,629,32
+19,For more information on stress and anxiety please see previous section of this workbook.,118,448,1195,32
+19,It can be common after Covid-19 to have dizziness. This dizziness is often brought on by certain,173,527,1297,31
+19,head positions or movements. Our balance system needs time to get used to movement again.,179,567,1281,33
+19,Sometimes people get into the habit of avoiding positions and situations that may bring on,117,636,1326,32
+19,their dizziness. This can really slow down their recovery and may cause other problems. If your,116,673,1378,32
+19,"dizziness comes on with a specific movement such as turning your head side-ways, you might",117,711,1377,32
+19,"start to avoid turning your head, and start using only your eyes to look at something instead.",117,748,1334,32
+19,"To help with this, slowly start to make the movements that are causing your dizziness. Make sure",115,808,1398,32
+19,you do this when you are somewhere that feels safe and comfortable for you. An example of this,117,846,1397,32
+19,is described in the box below.,117,883,436,26
+19,Dizziness exercise:,143,959,290,25
+19,"Walk somewhere that you feel safe, like your hallway. Look slowly from side to side, turning your",141,1021,1314,32
+19,"head as you walk. Then repeat looking up and down. Make sure it is also your head that moves, not",142,1064,1353,32
+19,just your eyes.,139,1107,195,31
+19,"To make this harder - try it in a busier but safe place, such as a supermarket aisle when holding",140,1182,1288,31
+19,onto the trolley. Then build up to being able to do this outside.,141,1224,832,32
+19,Please note these exercises are supposed to work your balance system in different ways. Some of,142,1300,1322,31
+19,these exercises may make you feel slightly dizzy. Please do not worry if this happens as long as this,141,1342,1333,32
+19,is manageable for you. This should get better the more/longer you practice.,141,1385,1008,32
+19,"It is important to speak to a healthcare professional about your dizziness, as it could",117,1462,1351,32
+19,also be caused by other things such as:,117,1499,644,32
+19,Ear condition,173,1554,175,24
+19,Dehydration,173,1607,170,31
+19,Some types of medication,172,1661,349,31
+19,Low blood sugar levels,173,1713,307,31
+19,Anxiety or stress,171,1768,220,29
+19,Postural hypotension (a sudden drop in blood pressure upon standing),173,1819,960,34
+19,Iron deficiency (lack of iron),172,1875,376,31
+19,"POTS (see previous section of this workbook, page 55)",173,1927,736,32
+19,"If you have any hearing loss, constant tinnitus (ringing or other noises in one or both ears),",234,2030,1227,32
+19,"worsening of your symptoms, or a new unusual pattern to them, contact your GP.",278,2072,1105,31
+19,58 Long Covid Workbook,118,2228,334,29
+20,"38 I Lambeth 2030 Our Future, Our Lambeth",78,74,455,26
+20,Our Lambeth,159,274,961,124
+20,2030 Outcomes,157,428,1154,123
+20,Our ambitions are bold - it is going to take everyone in,157,695,1282,58
+20,"the borough to play their part in delivering for Lambeth,",155,755,1296,59
+20,ensuring that we are all accountable and committed to a,157,816,1330,59
+20,better future for everyone.,158,880,606,54
+20,Our Lambeth Outcomes have been,157,975,625,33
+20,Our 2030 Ambition: Making Lambeth One of the,849,971,610,30
+20,Safest Boroughs in London,850,1006,348,28
+20,shaped to unite us in that effort.,156,1020,570,40
+20,LOWER,2101,886,306,201
+20,"By 2030, Lambeth will be a safer borough for",881,1072,539,31
+20,A Borough of Equity and Justice,156,1101,414,29
+20,"everyone, with a significant reduction in serious",881,1105,560,29
+20,violence against young people.,880,1140,367,28
+20,"By 2030, Lambeth will have lower levels of",188,1167,506,30
+20,MARSH,2093,1091,355,137
+20,"deprivation, with fewer children growing up",188,1201,510,28
+20,"By 2030, Lambeth will be safer for women and",881,1188,557,30
+20,in poverty.,188,1236,120,26
+20,"girls, and all residents experiencing gender-based",881,1221,589,31
+20,violence will be able to access support.,880,1255,467,27
+20,"By 2030, Lambeth will tackle the structural",188,1284,507,29
+20,"inequalities adversely impacting Black, Asian and",188,1316,582,30
+20,"By 2030, Lambeth will be a borough of prevention,",881,1303,602,30
+20,Multi-Ethnic residents by being a borough of anti-,187,1349,588,30
+20,tackling the root causes of violence to protect,881,1337,543,30
+20,our communities.,881,1371,205,22
+20,racism.,187,1385,85,22
+20,"By 2030, Lambeth will be a borough of progress,",188,1432,582,30
+20,working with LGBTQ+ communities and disabled,187,1465,586,30
+20,Our 2030 Ambition: Making Lambeth A Place We,849,1465,623,30
+20,residents to tackle the biggest challenges,187,1498,493,29
+20,Can All Call Home,850,1501,231,23
+20,they face.,187,1533,115,27
+20,"By 2030, Lambeth will be a borough of opportunity,",881,1566,611,30
+20,with local people benefitting from jobs in our future,880,1600,601,29
+20,Our 2030 Ambition: Making Lambeth,156,1629,468,28
+20,growth industries.,880,1634,211,28
+20,Neighbourhoods Fit for the Future,157,1662,434,28
+20,"By 2030, Lambeth will increase the supply of",881,1682,535,30
+20,"By 2030, Lambeth will be a Net Zero Borough.",188,1728,554,30
+20,genuinely affordable housing and the quality of,881,1716,554,30
+20,existing homes for residents who need them.,881,1749,533,29
+20,"By 2030, Lambeth residents will experience good",188,1777,588,30
+20,"health and wellbeing, with an improved healthy life",188,1810,595,30
+20,"By 2030, Lambeth will be a borough of sanctuary",881,1798,587,30
+20,expectancy for those with the poorest outcomes.,188,1845,584,29
+20,"and an Age and Child Friendly borough, the best",881,1831,579,29
+20,place to grow up and age well.,881,1866,365,29
+20,"By 2030, Lambeth will be a sustainable and healthy",188,1893,613,30
+20,"borough, with more accessible and active travel",188,1926,567,29
+20,options for everyone.,188,1961,249,27
+21,If you can't think of a way to deal with your worry or you are worrying about something that is not a,117,110,1326,33
+21,"problem just now, you can do the following:",117,147,602,33
+21,- Write the worry on paper and try asking yourself questions like 'Is it possible that my worry may not,116,197,1371,32
+21,"become true?', 'What else could happen? (a positive one maybe?)', 'How could I cope if the worry did",134,234,1351,32
+21,"become true?', 'What would I say to a friend going through the same thing?'. You can also talk about these",134,271,1419,32
+21,questions with your love one's.,133,309,406,31
+21,- You can use meditation techniques on page 52 to help you with letting go and accepting your thoughts.,116,358,1398,33
+21,PROBLEM SOLVING,118,433,378,30
+21,"Before starting, it is important to think if you are able to solve your worry. Ask yourself the following",125,476,1354,32
+21,questions:,124,515,136,29
+21,Is this an actual problem?,224,553,348,30
+21,Is this problem happening right now?,224,598,504,31
+21,Do I have any control over this problem?,225,643,551,33
+21,"If your answers are yes, then problem-solving can be a helpful.",124,686,860,32
+21,Here are some examples of problems to solve and the ones you will struggle to solve:,125,756,1154,32
+21,SOLVABLE WORRIES - things I can,144,825,543,32
+21,UNSOLVABLE WORRIES - things I can't do,801,825,662,32
+21,change,145,863,110,31
+21,anything about,801,867,245,31
+21,I am unable to drive to my appointment.,144,920,548,31
+21,What if my illness gets worse?,800,924,403,31
+21,I had a fight with my husband/wife/partner.,144,977,593,32
+21,What if I can't return to work in a years' time?,800,982,618,31
+21,I can't afford to pay my rent this month.,144,1034,536,31
+21,What if my landlord increases my rent?,800,1039,525,32
+21,How do I do it? Let's look at each step in more detail. An example will be used throughout this exercise.,85,1141,1402,32
+21,1,158,1349,19,40
+21,State the problem,291,1328,410,50
+21,2,154,1465,29,38
+21,Think of possible actions,289,1439,572,51
+21,Select the 3 best solutions,291,1554,608,41
+21,3,155,1581,27,39
+21,4,154,1691,30,42
+21,Compare and contrast,291,1671,517,50
+21,5,155,1806,29,42
+21,Create action plan for best solution,290,1784,806,51
+21,6,156,1921,27,38
+21,Action plan,289,1897,258,50
+21,Think back,288,2010,256,41
+21,7,155,2037,27,37
+21,Long Covid Workbook 45,1218,2229,324,29
+22,You may also find the sleep diary below useful to track your sleep and see,116,125,1397,41
+22,how good it has been.,118,177,423,39
+22,DAILY SLEEP DIARY,119,273,347,27
+22,Complete the diary each morning (Day 1 will be your first morning). Don't worry too,117,317,1414,33
+22,"much about giving exact answers, an estimate will do.",118,354,910,32
+22,Questions,124,441,140,30
+22,Day 1,560,441,74,30
+22,Day 2,688,441,75,30
+22,Day 3,810,441,75,30
+22,Day 4,943,442,76,30
+22,Day 5,1074,442,74,30
+22,Day 6,1202,441,75,30
+22,Day 7,1332,441,75,30
+22,Day 8,1461,441,75,30
+22,1. At what time did you,139,505,335,31
+22,go to bed last night?,182,543,278,31
+22,2. After settling down,137,614,300,31
+22,how long did it take,183,649,269,31
+22,you to fall asleep?,182,686,241,31
+22,"3. After falling asleep,",138,760,302,31
+22,about how many times,182,798,310,30
+22,did you wake up during,182,834,323,32
+22,the night?,182,872,140,31
+22,4. After falling asleep how,137,951,360,31
+22,long were you awake,183,989,287,31
+22,during the night in total?,183,1025,339,32
+22,5. At what time did you,138,1100,336,31
+22,finally wake up?,182,1136,214,31
+22,6. At what time did you,138,1205,340,33
+22,get up?,182,1244,104,31
+22,7. How long did you,138,1313,290,31
+22,spend in bed last night,182,1351,310,31
+22,(from first getting to,182,1386,276,32
+22,finally getting up)?,182,1423,259,32
+22,8. How would you rate the,138,1503,383,31
+22,quality of your sleep last,182,1540,333,32
+22,night?,183,1578,85,31
+22,1,108,1615,13,23
+22,2,206,1615,16,24
+22,3,306,1614,16,25
+22,4,406,1615,17,23
+22,5,507,1615,16,24
+22,V. Poor,105,1651,93,25
+22,V.Good,422,1651,102,25
+22,Loughborough,1359,1778,110,17
+22,Sleep Research Centre,1344,1793,207,22
+22,Long Covid Workbook 63,1218,2229,323,28
+23,"32 Lambeth 2030 Our Future, Our Lambeth",76,74,457,22
+23,"Lambeth 2030 Our Future, Our Lambeth",2772,74,408,22
+23,33,3199,75,27,19
+23,Our,157,242,148,68
+23,2030,152,333,636,224
+23,3 - Making Lambeth A Place,850,333,1832,133
+23,We Can All Call Home,847,483,1437,110
+23,ambition,157,581,342,67
+23,"By 2030, Lambeth will be a lifelong borough, with the best",1812,742,1247,51
+23,"conditions to grow up and age well, where everyone can",1810,804,1210,50
+23,"contribute to an inclusive economy, and have a place to",1809,865,1193,50
+23,call home.,1810,928,215,38
+23,"Lambeth - forever radical, always welcoming and",1810,1039,587,29
+23,"thrive. To deliver this, we are committed to becoming",2502,1039,630,29
+23,constantly creative. This is the reputation we have,1810,1072,592,28
+23,an accredited UNICEF Child Friendly borough a,2502,1072,586,29
+23,built together throughout our history and is the,1811,1106,552,28
+23,place where children's rights and voices are at the,2503,1107,594,28
+23,foundation of our ambition to make Lambeth the,1809,1139,578,24
+23,heart of everything we do and have worked with over,2502,1139,633,28
+23,best place for children and young people to develop,1810,1172,619,29
+23,"1,500 children and young people and community",2505,1172,585,29
+23,and for older people to enjoy their later years. It,1809,1207,562,28
+23,groups across the borough to listen to their priorities,2502,1207,622,28
+23,is also the spirit that will enable us to ensure that,1809,1239,577,27
+23,and concerns.,2503,1240,169,22
+23,"for life in between, everyone is able to access the",1809,1272,586,28
+23,"many opportunities that exist in Lambeth, as well as",1810,1307,617,27
+23,We will take a rights-based approach underpinned,2501,1306,601,28
+23,"fundamental basic rights - good quality education,",1810,1339,600,29
+23,"by equity and inclusion, making sure that all children",2502,1339,618,28
+23,"employment, housing, and access to healthcare.",1811,1373,577,28
+23,"and young people, regardless of their background,",2502,1372,602,28
+23,"culture, ability or anything else, feel welcome in",2503,1407,557,28
+23,"Across the borough, we have distinct places with",1809,1439,586,28
+23,"Lambeth, have the right opportunities to grow,",2503,1439,550,28
+23,"their own unique identities, communities, and assets.",1809,1472,630,27
+23,"learn, explore and have fun, and are protected from",2502,1472,613,28
+23,SANCTUARY,892,1514,509,57
+23,We are home to world class institutions and cultural,1808,1506,615,24
+23,discrimination and harm. This includes addressing the,2503,1506,640,29
+23,"clusters, with historic venues and green spaces",1810,1539,564,28
+23,needs of all children and young people with special,2503,1539,607,29
+23,adding to the Lambeth offer. We have thriving,1809,1572,541,28
+23,educational needs and/or disabilities. By continuing,2504,1572,609,29
+23,"businesses and great potential for future growth, and",1810,1606,629,28
+23,"to invest in local specialist provision, we aim to offer",2502,1606,615,28
+23,a vibrant community sector with local expertise. Yet,1809,1639,612,28
+23,"a mixed economy of inclusive mainstream schools,",2503,1639,604,28
+23,we know there is more to do to ensure that everyone,1809,1672,630,28
+23,"specialist resource bases, special schools and",2503,1672,550,28
+23,can benefit from the strengths Lambeth has to offer in,1810,1706,640,29
+23,specialist colleges within Lambeth. This will support,2502,1706,613,28
+23,order to build and sustain the best life possible.,1810,1739,560,28
+23,"us to ensure that, as far as possible, all our children",2502,1739,611,27
+23,and young people can be educated within their,2502,1772,562,28
+23,Making Lambeth the best,1812,1812,605,48
+23,local community. We will also continue work with all,2502,1806,611,28
+23,partners working together in the Lambeth local area,2503,1839,616,28
+23,place to grow up,1811,1868,397,48
+23,to make sure our schools and neighbourhoods are,2501,1872,604,28
+23,fully inclusive and supportive for children with SEND,2502,1906,614,28
+23,We are committed to making Lambeth the best,1808,1950,565,28
+23,and their families. Alongside this is our continued,2503,1939,580,28
+23,place to grow up and Lambeth being the place,1810,1983,557,28
+23,"drive to further improve educational settings, options",2503,1972,625,28
+23,where families want to send their children to school.,1809,2017,616,24
+23,and standards so that all children and young people,2503,2006,618,29
+23,This recognises that the best start in life is crucial to,1809,2050,615,27
+23,benefit from high quality and inclusive access,2503,2039,537,29
+23,"support lifelong prosperity, allowing each individual to",1810,2083,632,28
+23,to education.,2502,2073,156,22
+24,LM FLIGHT PLAN,115,855,43,397
+24,MCC-H,168,1791,26,99
+24,1653 CST,157,1556,26,121
+24,CDR,172,1161,26,61
+24,LMP,175,691,25,59
+24,NOTES,176,276,26,103
+24,116:00,206,1559,25,90
+24,PLSS DONNING (CONT),224,1102,30,285
+24,CSM REV 15,310,304,24,151
+24,PLSS COMM CHECK,349,1158,25,230
+24,:10,392,1559,24,42
+24,CONFIGURE COMM FOR EVA,381,1051,25,338
+24,RECORDER - ON,412,1190,25,197
+24,-0:30,404,379,24,75
+24,REPORT: PLSS 02 2 QUANTITY,442,1022,40,366
+24,OPS CONNECT,503,1222,24,167
+24,:20,576,1559,24,42
+24,HELMET GLOVE DONNING,628,1082,25,309
+24,-0:15,681,379,24,74
+24,S,714,1478,24,14
+24,T,745,1479,23,14
+24,116:30,762,1561,24,89
+24,D,777,1479,22,15
+24,N,808,1480,23,14
+24,PRESSURE INTEGRITY CHECK,845,1022,25,368
+24,GO/NO-GO FOR CABIN,871,1713,27,276
+24,DEPRESS,902,1852,24,105
+24,:40,947,1560,24,41
+24,CABIN DEPRESS,938,1195,24,196
+24,START WATCHES @ 3.5 PSIA,969,1022,26,369
+24,00:00/START EVA-1,959,203,27,254
+24,FINAL PREP FOR EVA,1031,1115,25,275
+24,OPEN FWD HATCH,1093,1178,24,213
+24,:50,1132,1561,25,41
+24,EGRESS,1155,1301,23,90
+24,ASSIST CDR,1158,763,24,154
+24,+0:10,1146,380,24,76
+24,DEPLOY MESA,1186,1223,24,170
+24,SURFACE FAMILIARIZATION,1218,1039,25,353
+24,RECORDER - OFF,1251,704,24,213
+24,"EGRESS, CLOSE HATCH",1282,627,27,290
+24,117:00,1317,1560,24,89
+24,SURFACE FAMILIARIZATION,1314,565,25,351
+24,+0:20,1333,382,23,75
+24,MISSION,1357,1606,26,132
+24,EDITION,1359,1374,25,124
+24,DATE,1360,1106,25,78
+24,TIME,1361,768,25,70
+24,DAY/REV,1363,415,27,138
+24,PAGE,1364,247,25,84
+24,APOLLO 17,1396,1607,24,136
+24,FINAL (12/6),1396,1346,30,180
+24,10/23/72,1401,1087,26,120
+24,116:00 - 117:00,1403,693,25,228
+24,6/14-15,1405,442,27,107
+24,3-132,1404,238,23,74
+24,FLIGHT PLANNING BRANCH,1439,821,27,426
+25,FLIGHT PLAN,101,964,50,320
+25,MCC-H,150,1821,27,103
+25,2253 CST,140,1613,27,124
+25,290:00,186,1598,25,92
+25,NOTES,160,247,30,109
+25,SIM EXP STATUS,215,271,31,216
+25,(*0001),246,352,34,102
+25,(00001),279,352,32,102
+25,:20,374,1599,25,41
+25,DAP LOAD STATUS,341,257,32,233
+25,(11101) (01111),371,274,37,211
+25,:40,561,1600,26,43
+25,S,704,1531,24,15
+25,T,734,1531,24,16
+25,291:00,750,1601,26,92
+25,REST PERIOD,743,930,28,171
+25,D,766,1530,23,16
+25,UV/PTC,748,573,28,92
+25,N,799,1530,23,16
+25,(8 HOURS),773,949,34,133
+25,GALACTIC SCAN,778,540,29,202
+25,:20,939,1602,25,41
+25,:40,1128,1602,25,42
+25,292:00,1315,1604,25,92
+25,MISSION,1363,1658,27,135
+25,EDITION,1363,1425,28,127
+25,DATE,1364,1148,26,79
+25,TIME,1366,806,26,72
+25,DAY/REV,1367,441,29,139
+25,PAGE,1371,274,27,88
+25,APOLLO 17,1406,1655,27,140
+25,FINAL (12/6),1407,1408,37,183
+25,10/23/72,1407,1126,28,125
+25,290:00 - 292:00,1411,735,30,234
+25,13/TEC,1417,468,29,92
+25,3-398,1412,285,25,76
+25,FLIGHT PLANNING BRANCH,1444,811,35,437
+26,"22 Lambeth 2030 Our Future, Our Lambeth",76,74,457,23
+26,"Lambeth 2030 Our Future, Our Lambeth",2771,74,408,22
+26,23,3199,74,27,20
+26,Our,156,241,148,69
+26,2030,163,336,619,222
+26,1 - Making Lambeth,858,334,1235,135
+26,Neighbourhoods Fit for the Future,856,481,2145,143
+26,ambition,159,580,339,69
+26,"By 2030, Lambeth will be a clean, vibrant and climate resilient",1811,741,1321,54
+26,"borough where people can lead healthier, happier lives.",1810,802,1174,53
+26,The on-going and lasting impacts of the climate,1808,916,569,31
+26,learning from this was key to the development of,2502,916,574,32
+26,"emergency, the cost-of-living crisis and the covid-19",1810,949,622,31
+26,"Lambeth's first climate partnership, overseeing the",2502,949,591,30
+26,pandemic mean that we must radically change the,1809,983,602,30
+26,implementation of the Lambeth Climate Action Plan.,2501,982,640,31
+26,way we think and act in Lambeth. From continued,1808,1017,598,30
+26,These are momentous actions that will help guide us,2501,1017,620,29
+26,lobbying for environmental and fairer legislative,1808,1050,555,30
+26,to achieving our collective goal of a more sustainable,2501,1049,620,30
+26,"changes and investment at national level, to",1810,1082,521,30
+26,and just future - ensuring that everything we do will,2502,1082,602,30
+26,"adapting the way we travel, design buildings and",1809,1116,580,31
+26,"make Lambeth a more sustainable, climate resilient",2503,1116,601,27
+26,"public spaces, and make local, healthy and more",1810,1150,584,30
+26,borough for everyone.,2502,1150,258,29
+26,"sustainable choices, we all have a role to play in",1810,1182,569,29
+26,"improving the health, wellbeing and environment of",1809,1216,607,31
+26,"Backed by our residents to act now, we are",2503,1217,512,29
+26,others in Lambeth now and for future generations.,1809,1250,596,29
+26,committing to tackling the climate and ecological,2502,1249,575,31
+26,NET-ZERO,728,1271,183,68
+26,emergency together. We will reduce greenhouse gas,2502,1283,617,30
+26,The people of Lambeth are proud of their local,1808,1316,541,31
+26,emissions from all sources we control or influence,2502,1316,583,26
+26,2030,715,1319,185,93
+26,area and have already taken steps to tackle climate,1809,1349,597,30
+26,and build our resilience to the impacts of climate,2502,1349,569,29
+26,"change, but there is a desire and urgency within our",1809,1382,605,31
+26,change through sustainable development and,2502,1383,539,30
+26,"communities for further decisive, collaborative action.",1809,1417,616,27
+26,technologies. This will require a range of interventions,2501,1416,626,31
+26,"Residents share that their health, carbon footprint",1809,1449,577,29
+26,"and adaptations including improving flood prevention,",2502,1449,628,30
+26,"and their streets matter to them, and they want to",1809,1483,580,28
+26,"more tree cover, sustainable urban drainage solutions",2502,1483,628,29
+26,WELLBEING,893,1510,520,61
+26,"commit to improving our shared environment, ensuring",1809,1515,636,32
+26,and efficiency of water use. Based on the Citizens',2502,1516,593,31
+26,"that everyone knows how they can contribute,",1809,1550,538,30
+26,Assembly recommendations we also know the need,2501,1549,617,31
+26,however small.,1810,1583,172,24
+26,to retrofit at scale to significantly improve energy,2501,1583,566,29
+26,efficiency of our buildings and focus on decarbonising,2502,1616,631,30
+26,Climate resilience,1810,1656,423,40
+26,"our transport network to lower emissions, and we will",2502,1649,627,30
+26,continue to lobby the government tirelessly for funding,2502,1682,637,30
+26,for a national retrofit programme.,2501,1717,386,29
+26,"We face a global climate emergency, and we know",1808,1738,599,31
+26,that inaction or insufficient responses will have,1809,1771,542,29
+26,"Our hyperconnected inner London, highly urbanised",2502,1782,612,31
+26,consequences of an irreversible nature.,1809,1806,460,28
+26,location requires us to continue to be led by design,2502,1816,601,31
+26,"that reduces traffic and enables people to walk, cycle",2502,1849,626,30
+26,"In January 2019, Lambeth became the first London",1809,1871,605,30
+26,and use public transport to experience the borough,2502,1882,605,30
+26,Borough to declare a climate and ecological,1810,1906,516,30
+26,safely and accessibly. This means coming together,2503,1917,597,30
+26,emergency and commit to becoming carbon neutral,1809,1939,614,31
+26,"and rethinking our transport systems to be inclusive,",2502,1949,612,31
+26,across our council buildings and operations by,1809,1971,548,30
+26,"enabling healthier, more affordable and sustainable",2502,1982,595,30
+26,2030. The Council reached out to residents through,1809,2005,609,29
+26,ways to get around the borough including improving,2502,2016,631,31
+26,the Citizens' Assembly on the climate crisis and,1809,2036,559,33
+26,"our existing network, electric car clubs, e-scooters",2502,2050,594,30
+27,THE BOOK COLLECTOR,396,120,308,16
+27,whom K has some harsh words despite working for him for several years.,151,189,796,31
+27,After speaking about a runner bringing in to Rota a copy of The Road,151,222,800,31
+27,"to Oxiana in dust wrapper, for which he was asking £25, K writes about",151,256,799,30
+27,"Setitia Butler, who is living proof of the old adage that 'style is character'.",151,289,796,30
+27,"Ms Butler, who was later to be the wife of another bookseller, Anthony",151,322,797,29
+27,"Simmonds, was distinguished on a few fronts: she was a serious friend of",151,356,802,31
+27,"the author, the niece of Robert Byron and one of the last people to see",151,389,798,31
+27,Lord Lucan. The afternoon of the day he murdered his nanny with a sec-,150,422,798,29
+27,"tion of lead piping, having mistaken her in the dark for his wife, he came",151,456,798,31
+27,"to see Setitia, who was then working at Heywood Hill, to settle his ac-",150,489,798,31
+27,count. (This in itself is extraordinary though K passes over it.) Many years,151,522,798,30
+27,"later, while working at Peter Ellis, K falls into conversation with an ex-",150,556,798,30
+27,policeman who had been the first to arrive at the Lucans' house. Here I,150,589,800,31
+27,quote the author: 'I would like to have asked him whether Lady Lucan,151,622,798,31
+27,was still flushed from having made love with Lord Lucan after the mur-,151,656,798,30
+27,"der.' (K's italics.) K may be right; it may have indeed happened like that,",151,689,797,30
+27,"before she rushed into the nearby pub screaming ""Murder! Murder!""",151,722,749,30
+27,He can be waspish: Anthony Rota was 'a poor judge of character'; Lar-,174,756,775,31
+27,kin is a 'paragon of seedy exactitude' whose 'oeuvre exudes impotence';,150,788,797,32
+27,"Brodsky was a pompous windbag'. On the other hand, he is hard on him-",151,823,797,31
+27,"self as well, continually. He is one of those people who likes to say every-",150,856,799,30
+27,"thing, even where prudence suggests otherwise. The result is an absolute",151,889,798,31
+27,page-turner. His style is SO immediate that whether one likes the people in,150,923,799,32
+27,"the anecdote or not, one just has to know what happens. His footnotes are a",151,956,798,30
+27,"delight - for instance, that books in green covers are the hardest to sell. His",151,989,798,31
+27,short final chapter concerns a trip to his barber (who is supplied with signed,150,1023,799,31
+27,copies of new titles to store away as an investment). K fears his shop will go,151,1056,798,31
+27,because of Covid and rising costs. In this way he ends on the same note as he,150,1089,798,30
+27,"began, on the remorseless decline in the opportunities for intelligent com-",150,1123,798,31
+27,mercial discourse. It is sad to end a spirited book in such a negative way.,151,1156,763,31
+27,Henry Wessells,445,1253,209,35
+27,FIFTY FORGOTTEN BOOKS,383,1328,333,17
+27,By R. B. Russell,462,1357,178,29
+27,"(Sheffield: And Other Stories, 2022. 255 pp., many illus, £12.99/$19.95)",155,1389,789,31
+27,"For some of us, the most interesting lists of books are descriptive or sug-",151,1456,799,30
+27,"gestive, not prescriptive or combative (certain lists are bullies looking for",151,1489,797,31
+27,a fight). Ray Russell's list of Fifty Forgotten Books is the sort of genial com-,150,1522,798,31
+27,178,531,1593,37,24
+28,Lambeth,128,133,343,67
+28,2036,127,229,615,215
+28,"OUR FUTURE, OUR LAMBETH",131,473,442,28
+28,UNDERGROUND,313,963,105,18
+28,ROUND,477,1018,94,41
+28,NDERGR,651,1021,138,31
+28,DIVERSITY,923,1411,519,66
+28,THEOLDVIC,809,1768,337,30
+28,Lambeth,1175,2192,311,64
+29,Docking,1190,900,41,91
+30,CSM FLIGHT PLAN,222,915,28,307
+30,137:00,298,1855,15,59
+30,SIM EXP STATUS,298,1144,16,140
+30,137:30,296,982,16,59
+30,SIM EXP STATUS,295,273,16,137
+30,UPDATE:,308,1693,16,65
+30,"SET HGA: MAN, WIDE, P -10, Y 25 FOR AOS",303,500,19,393
+30,(+0100),317,1185,19,66
+30,(P20),328,1879,19,45
+30,TEI 38 PAD,328,1639,16,99
+30,(P20),323,1005,19,45
+30,(+0100),314,313,19,65
+30,(0.5°08),350,1850,19,73
+30,SOLAR CORONA PHOTO PAD (137:33),347,1434,21,304
+30,(00200),338,1185,19,65
+30,(0.5°DB),343,976,19,73
+30,(00200),336,313,19,65
+30,FLIGHT PLAN,369,1630,16,108
+30,(11101),389,1859,19,63
+30,(11101),383,986,19,64
+30,(_1111),409,1860,20,64
+30,(_1111),404,985,19,63
+30,SOLAR CORONA PHOTO PAD (SR),401,346,21,265
+30,SOLAR CORONA (SUNRISE),464,680,19,213
+30,T-START:,461,536,15,75
+30,(SR -7 MIN),486,423,20,104
+30,:10,697,1856,16,28
+30,:40,697,982,15,28
+30,PCM BIT RATE - LOW (NEXT 7 MIN) (159°W),772,520,21,374
+30,02 FUEL CELL PURGE,853,718,26,177
+30,CONFIGURE FOR URINE DUMP,887,1531,16,237
+30,LS,887,1194,16,19
+30,WASTE WATER DUMP,884,737,16,158
+30,LS,885,331,16,21
+30,VHF,908,1195,15,29
+30,VHF,905,332,15,30
+30,CMDS: (AOS +61 MIN),987,1572,19,186
+30,DSE REWIND,1009,1640,15,98
+30,REV 26,1061,981,15,57
+30,PCM BIT RATE - HIGH (180°W),1052,630,20,265
+30,:20,1097,1855,15,28
+30,:50,1097,982,15,28
+30,SAMPLE BUSS (1) - STOW SAMPLE (1),1092,569,20,325
+30,DUMP URINE FROM BUSS (1) - STOW,1113,588,19,308
+30,CSM EXP/EVA CHECKLIST,1128,1549,16,208
+30,SOLAR CORONA (SR) PAGE X/2-9,1156,1471,20,295
+30,MAG (99),1197,1689,20,77
+30,CMDS: (AOS +69 MIN),1306,1571,20,185
+30,DSE RECORD,1327,1639,15,97
+30,137:30,1495,1855,16,59
+30,VERIFY DSE TAPE MOTION (HBR/RCD/FWD/CMD RESET),1484,1314,21,451
+30,138:00,1495,983,16,58
+30,MISSION,1541,1319,16,92
+30,EDITION,1541,1114,16,89
+30,DATE,1541,886,16,54
+30,PAGE,1540,736,17,60
+30,APOLIO 17,1568,1319,16,88
+30,FINAL (12/6),1568,1101,21,117
+30,10/23/72,1569,877,17,78
+30,3-175,1569,742,16,48
