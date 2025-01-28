@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml_space="preserve">
+  <header pdf-filepath="output_mixed_2.pdf_review_file"/>
+  <annots>
+    <redact name="013be908-3b1f-48a2-9cd2-cff17cbc86b2" page="4" rect="4.80,5.04,1185.51,837.09" title="Whole page" contents="" subject="Whole page" mimetype="Form" border-color="0.5,0.5,0.5" repeat="false" interior-color="0.5,0.5,0.5" overlay-color="0.5,0.5,0.5" overlay-text="Whole page" opacity="0.5"/>
+    <redact name="22430eb7-e57f-402c-bc75-abc847eb8c90" page="16" rect="4.80,5.04,578.64,770.16" title="Whole page" contents="" subject="Whole page" mimetype="Form" border-color="0.5,0.5,0.5" repeat="false" interior-color="0.5,0.5,0.5" overlay-color="0.5,0.5,0.5" overlay-text="Whole page" opacity="0.5"/>
+    <redact name="66e896c6-ece2-4241-81c6-19e16fc05500" page="19" rect="4.80,5.04,1185.51,837.09" title="Whole page" contents="" subject="Whole page" mimetype="Form" border-color="0.5,0.5,0.5" repeat="false" interior-color="0.5,0.5,0.5" overlay-color="0.5,0.5,0.5" overlay-text="Whole page" opacity="0.5"/>
+    <redact name="24b2ba42-d3f6-400f-8b37-dc9ae495371c" page="20" rect="4.80,5.04,578.64,770.16" title="Whole page" contents="" subject="Whole page" mimetype="Form" border-color="0.5,0.5,0.5" repeat="false" interior-color="0.5,0.5,0.5" overlay-color="0.5,0.5,0.5" overlay-text="Whole page" opacity="0.5"/>
+    <redact name="1a875b5a-8ee1-488a-b3ad-120d00666690" page="21" rect="4.80,5.04,391.81,624.49" title="Whole page" contents="" subject="Whole page" mimetype="Form" border-color="0.5,0.5,0.5" repeat="false" interior-color="0.5,0.5,0.5" overlay-color="0.5,0.5,0.5" overlay-text="Whole page" opacity="0.5"/>
+    <redact name="02e53d3e-8a68-4c8e-9614-e6fcc35c4a61" page="23" rect="4.80,5.04,578.64,770.16" title="Whole page" contents="" subject="Whole page" mimetype="Form" border-color="0.5,0.5,0.5" repeat="false" interior-color="0.5,0.5,0.5" overlay-color="0.5,0.5,0.5" overlay-text="Whole page" opacity="0.5"/>
+  </annots>
+</xfdf>
