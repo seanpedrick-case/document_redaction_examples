@@ -1,0 +1,40 @@
+﻿page,text,left,top,width,height,line,conf
+1,Example of emails sent to a professor before applying:,0.035294,0.785948,0.104161,0.003636,1,100.0
+1,Fwd: Prospective Graduate Student,0.035294,0.794312,0.067969,0.003636,2,100.0
+1,"Dr. Kornbluth,",0.035294,0.802676,0.029514,0.003661,3,100.0
+1,I am a senior biology major at the University of Notre Dame. I am applying to the CMB,0.035294,0.811039,0.167141,0.003636,4,100.0
+1,program and am very interested in your work. After glancing at a few of your recent,0.035294,0.815221,0.159827,0.003636,5,100.0
+1,papers and your research summary I find your work with apoptosis very interesting. Will,0.035294,0.819403,0.168729,0.003636,6,100.0
+1,"you be taking on new students next year?  If I am invited to interview, is there any way",0.035294,0.823585,0.165216,0.003636,7,100.0
+1,you will be able to meet with me?,0.035294,0.827767,0.06511,0.003636,8,100.0
+1,I have worked on several different research projects as an undergraduate in Dr. David R.,0.035294,0.836367,0.167878,0.003636,9,100.0
+1,Hyde's lab at the University of Notre Dame. The Hyde lab is interested in the signals that,0.035294,0.840548,0.168875,0.003636,10,100.0
+1,initiate Muller glia division post-light damage. My first research project was,0.035294,0.84473,0.145078,0.003636,11,100.0
+1,characterizing the role of leukemia inhibitory factor (LIF) in the activation of cell,0.035294,0.848912,0.154596,0.003636,12,100.0
+1,proliferation in the undamaged zebrafish retina. I am also working on several,0.035294,0.853094,0.146557,0.003636,13,100.0
+1,experiments that are related to a genetic screen that the Hyde lab plans on performing to,0.035294,0.857276,0.166969,0.003636,14,100.0
+1,identify mutants in the regeneration pathway--I am developing a neuroD4:EGFP,0.035294,0.861458,0.153929,0.003636,15,100.0
+1,transgenic line for use in this screen and I am characterizing the extent of damage and,0.035294,0.865639,0.162855,0.003636,16,100.0
+1,"regeneration in sheer zebrafish retinas. Finally, I am characterizing the chx10:EGFP",0.035294,0.869821,0.160047,0.003636,17,100.0
+1,transgenic line during retinal development and regeneration.,0.035294,0.874003,0.116384,0.003661,18,100.0
+1,Please find my CV attached.,0.035294,0.882603,0.056549,0.003661,19,100.0
+1,"Thank you for your time,",0.035294,0.891203,0.05029,0.003661,20,100.0
+1,--Lauren Lilley,0.035294,0.899803,0.030059,0.003636,21,100.0
+1,"Dr. Poss,",0.035294,0.91653,0.019961,0.003661,22,100.0
+1,I am a senior biology major at the University of Notre Dame. I am applying to your,0.035294,0.924894,0.158443,0.003636,23,100.0
+1,graduate program and am very interested in your work. After glancing at a few of your,0.035294,0.929076,0.16451,0.003636,24,100.0
+1,recent papers and your research summary I find your research greatly coincides with my,0.035294,0.933258,0.167541,0.003636,25,100.0
+1,research experiences and interests.  Will you be taking on new students next year?,0.035294,0.937439,0.155882,0.003636,26,100.0
+1,I have worked on several different research projects as an undergraduate in Dr. David R.,0.035294,0.946039,0.167878,0.003636,27,100.0
+1,Hyde's lab at the University of Notre Dame. The Hyde lab is interested in the signals that,0.035294,0.950221,0.168875,0.003636,28,100.0
+1,initiate Muller glia division post-light damage. My first research project was,0.035294,0.954403,0.145078,0.003636,29,100.0
+1,characterizing the role of leukemia inhibitory factor (LIF) in the activation of cell,0.035294,0.958585,0.154596,0.003636,30,100.0
+1,proliferation in the undamaged zebrafish retina. I am also working on several,0.035294,0.962767,0.146557,0.003636,31,100.0
+1,experiments that are related to a genetic screen that the Hyde lab plans on performing to,0.035294,0.966948,0.166969,0.003636,32,100.0
+1,identify mutants in the regeneration pathway--I am developing a neuroD4:EGFP,0.035294,0.97113,0.153929,0.003636,33,100.0
+1,transgenic line for use in this screen and I am characterizing the extent of damage and,0.035294,0.975312,0.162855,0.003636,34,100.0
+2,"regeneration in sheer zebrafish retinas. Finally, I am characterizing the chx10:EGFP",0.035294,0.785948,0.160047,0.003636,1,100.0
+2,transgenic line during retinal development and regeneration.,0.035294,0.79013,0.116384,0.003661,2,100.0
+2,Please find my CV attached.,0.035294,0.79873,0.056549,0.003661,3,100.0
+2,"Thank you for your time,",0.035294,0.80733,0.05029,0.003661,4,100.0
+2,--Lauren Lilley,0.035294,0.81593,0.030059,0.003636,5,100.0
