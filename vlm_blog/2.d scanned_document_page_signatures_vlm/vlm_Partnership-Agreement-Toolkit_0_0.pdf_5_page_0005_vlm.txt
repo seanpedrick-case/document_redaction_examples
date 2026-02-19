@@ -1,0 +1,79 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-02-19 06:53:19
+Image: Partnership-Agreement-Toolkit_0_0.pdf_5.png
+Page: 5
+Model: Qwen3-VL-8B-Instruct
+Model Type: VLM
+Temperature: 0.0
+Max New Tokens: 4096
+Top-p: 0.8
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bb': [x1, y1, x2, y2], 'text': 'identified text'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+- Empty lines should be skipped
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+```json
+[
+    {"bb": [168, 32, 411, 63], "text": "SisterCities"},
+    {"bb": [168, 63, 411, 75], "text": "INTERNATIONAL"},
+    {"bb": [168, 84, 411, 97], "text": "Connect globally. Thrive locally."},
+    {"bb": [513, 25, 960, 58], "text": "Partnership Agreement"},
+    {"bb": [825, 67, 960, 100], "text": "Toolkit"},
+    {"bb": [388, 197, 866, 253], "text": "City of Long Beach"},
+    {"bb": [545, 253, 685, 283], "text": "California"},
+    {"bb": [318, 302, 700, 335], "text": "Sister City Agreement"},
+    {"bb": [466, 347, 553, 362], "text": "between the"},
+    {"bb": [375, 373, 632, 390], "text": "City of Long Beach"},
+    {"bb": [395, 391, 613, 407], "text": "California, USA"},
+    {"bb": [482, 410, 538, 423], "text": "and the"},
+    {"bb": [318, 424, 693, 442], "text": "City of San Pablo de Manta"},
+    {"bb": [343, 443, 666, 460], "text": "Ecuador, South America"},
+    {"bb": [245, 478, 800, 492], "text": "In accordance with the authorization and approval expressed by the City of Long Beach,"},
+    {"bb": [245, 492, 800, 505], "text": "California, USA, and the City of San Pablo de Manta, Ecuador, South America, it is declared"},
+    {"bb": [245, 505, 800, 518], "text": "that a \"Sister City Agreement\" between the two cities is hereby established for the following"},
+    {"bb": [245, 518, 800, 531], "text": "purposes:"},
+    {"bb": [245, 531, 800, 544], "text": "(1) to promote and expand the effective and mutually beneficial cooperation between"},
+    {"bb": [245, 544, 800, 557], "text": "the people of Long Beach and the people of San Pablo de Manta; and"},
+    {"bb": [245, 557, 800, 570], "text": "(2) to promote international goodwill, understanding, and expanded business"},
+    {"bb": [245, 570, 800, 583], "text": "relations between the two cities and their respective nations by the exchange of people, ideas, and"},
+    {"bb": [245, 583, 800, 596], "text": "information in a wide variety of economic, social, cultural, municipal, environmental,"},
+    {"bb": [245, 596, 800, 609], "text": "professional, technical, youth, and other endeavors; and"},
+    {"bb": [245, 609, 800, 622], "text": "(3) to foster and encourage charitable, scientific, trade and commerce, literary and"},
+    {"bb": [245, 622, 800, 635], "text": "educational activities between the two cities:"},
+    {"bb": [245, 635, 800, 648], "text": "This Sister City Agreement shall be officially established and shall become effective when"},
+    {"bb": [245, 648, 800, 661], "text": "this document has been duly executed by the Mayor of Long Beach, California, USA, and the"},
+    {"bb": [245, 661, 800, 674], "text": "Mayor of San Pablo de Mania, Ecuador, South America."},
+    {"bb": [585, 703, 713, 719], "text": "Beverly O'Neill"},
+    {"bb": [538, 719, 756, 733], "text": "Mayor, City of Long Beach"},
+    {"bb": [585, 733, 713, 747], "text": "California, USA"},
+    {"bb": [508, 800, 786, 815], "text": "Ing. Jorge O. Zambrano Cedeño"},
+    {"bb": [508, 815, 786, 829], "text": "Mayor, City of San Pablo de Manta"},
+    {"bb": [508, 829, 786, 843], "text": "Ecuador, South America"},
+    {"bb": [508, 843, 756, 857], "text": "Dated: September 19, 2000"}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

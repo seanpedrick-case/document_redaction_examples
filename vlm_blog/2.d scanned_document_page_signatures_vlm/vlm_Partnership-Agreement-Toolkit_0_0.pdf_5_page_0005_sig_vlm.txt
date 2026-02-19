@@ -1,0 +1,40 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-02-19 06:53:24
+Image: Partnership-Agreement-Toolkit_0_0.pdf_5.png
+Page: 5
+Model: Qwen3-VL-8B-Instruct
+Model Type: VLM
+Temperature: 0.0
+Max New Tokens: 4096
+Top-p: 0.8
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all signatures in the image, and output in JSON format as [{'bb': [x1, y1, x2, y2], 'text': '[SIGNATURE]'}, ...].
+
+Always return the JSON format as [{'bb': [x1, y1, x2, y2], 'text': '[SIGNATURE]'}, ...].
+
+Rules:
+- Each signature must be a separate entry.
+- Do NOT combine multiple signatures into a single entry.
+- Each signature that appears in the image should be a separate entry.
+- 'text' should always be exactly '[SIGNATURE]'.
+- Do NOT include any other text or information in the JSON.
+- If there are no signatures in the image, return an empty JSON array.
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+[{'bb': [487, 700, 737, 783], 'text': '[SIGNATURE]'}, {'bb': [487, 773, 737, 847], 'text': '[SIGNATURE]'}]
+
+================================================================================
+END OF LOG
+================================================================================
