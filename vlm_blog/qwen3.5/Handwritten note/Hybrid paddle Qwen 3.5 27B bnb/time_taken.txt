@@ -1,0 +1,12 @@
+--- Performance ---
+Time taken: 3.51 seconds
+Generated tokens: 23
+Tokens per second: 6.56
+  Re-OCR'd line: 'PopUATion Tosk in fo Sermlus the aneias' (conf: 71.1, words: 7) -> 'POPULATION Took in for serious the Americans' (conf: 95.0, words: 7) [VLM]
+  Re-OCR'd line: 'PopUATion Tosk in fo Sermlus the aneias' (conf: 71.1, words: 7) -> 'POPULATION Took in for serious the Americans' (conf: 95.0, words: 7) [VLM]
+VLM image preparation warning: constraints conflict (DPI 200.0-300.0, pixels 307200-1536000, reported DPI 200.0, 232x59). Using scale 1.5000 (capping size/DPI).
+VLM image preparation: 232x59 (13,688 px, ~200.0 DPI) -> 348x88 (achieved ~300.0 DPI, config requirement ~300.0 DPI), scale 1.5000
+
+
+File 'Difficult handwritten note.jpg' prepared in 0.0 seconds.  Redacted in 122.9 seconds.
+

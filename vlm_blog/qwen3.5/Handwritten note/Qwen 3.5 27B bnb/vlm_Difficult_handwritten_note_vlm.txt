@@ -1,0 +1,74 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-20 16:10:31
+Image: Difficult handwritten note.jpg
+Image input size (pixels): 1194 x 1287 (width x height)
+Input tokens: 1749
+Output tokens: 1245
+Model: Qwen3.5-27B-bnb-4bit
+Model Type: VLM
+Temperature: 0.7
+Max New Tokens: 4096
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+
+- Empty lines should be skipped
+- 'conf' should be a confidence score from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+
+
+```json
+[
+  {"bbox_2d": [283, 15, 722, 65], "text": "SURPRISE AND QUICK ACTION.", "conf": 0.9},
+  {"bbox_2d": [48, 72, 217, 114], "text": "FIELD LATER:", "conf": 0.9},
+  {"bbox_2d": [268, 65, 722, 117], "text": "Three prongs, attaking at four lights.", "conf": 0.8},
+  {"bbox_2d": [274, 110, 792, 161], "text": "First prong BEIDGENHEAD AT REINE", "conf": 0.9},
+  {"bbox_2d": [271, 149, 935, 200], "text": "ASSAULT men and camps, use of land and army", "conf": 0.8},
+  {"bbox_2d": [271, 190, 888, 242], "text": "personnel with main portion of island.", "conf": 0.8},
+  {"bbox_2d": [271, 235, 948, 287], "text": "DESTROY ALL COMMUNICATIONS, telephone wire etc", "conf": 0.8},
+  {"bbox_2d": [268, 278, 866, 328], "text": "and occupy POST OFFICE", "conf": 0.9},
+  {"bbox_2d": [271, 318, 866, 367], "text": "spread out with bridghead and occupy town", "conf": 0.8},
+  {"bbox_2d": [258, 367, 977, 421], "text": "SECOND PRONG Air Seaman to cut line of communication at", "conf": 0.8},
+  {"bbox_2d": [339, 405, 761, 456], "text": "town ANDO to main land.", "conf": 0.9},
+  {"bbox_2d": [863, 405, 977, 439], "text": "EMU POINT", "conf": 0.9},
+  {"bbox_2d": [258, 449, 968, 507], "text": "THIRD PRONG to take wireless station and light house", "conf": 0.8},
+  {"bbox_2d": [258, 492, 941, 553], "text": "initial stages Cut off and destroy power station then", "conf": 0.8},
+  {"bbox_2d": [268, 540, 885, 598], "text": "PANDAR - ANDO - REINE this please,", "conf": 0.8},
+  {"bbox_2d": [271, 587, 728, 644], "text": "and further use of our engineers etc.", "conf": 0.8},
+  {"bbox_2d": [42, 644, 204, 684], "text": "RESISTANCE:", "conf": 0.9},
+  {"bbox_2d": [268, 631, 968, 689], "text": "AT WIRELESS STATION LIGHTHOUSE complete surprise", "conf": 0.8},
+  {"bbox_2d": [268, 676, 941, 730], "text": "GERMANS AT REINE NOT QUITE LIGHT BOOIS LIE", "conf": 0.8},
+  {"bbox_2d": [274, 718, 831, 771], "text": "out Seaman 4 YES OF ENEMY 16 to 4-5.", "conf": 0.8},
+  {"bbox_2d": [271, 757, 700, 814], "text": "QUICKING FRIGHTENED, ONE ESCAPED CAPTURED", "conf": 0.8},
+  {"bbox_2d": [271, 804, 792, 858], "text": "CHEST HIGH IN FREEZING WATER", "conf": 0.9},
+  {"bbox_2d": [268, 844, 957, 899], "text": "POPULATION Took in for Germans the Americans", "conf": 0.8},
+  {"bbox_2d": [268, 885, 840, 939], "text": "outfits as BRITISH IRISH local.", "conf": 0.8},
+  {"bbox_2d": [271, 928, 657, 977], "text": "Description of Norwegian", "conf": 0.8}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

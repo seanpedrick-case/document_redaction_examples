@@ -1,0 +1,6 @@
+--- Performance ---
+Time taken: 191.09 seconds
+Generated tokens: 1245
+Tokens per second: 6.52
+
+File 'Difficult handwritten note.jpg' prepared in 0.0 seconds.  Redacted in 241.4 seconds.
