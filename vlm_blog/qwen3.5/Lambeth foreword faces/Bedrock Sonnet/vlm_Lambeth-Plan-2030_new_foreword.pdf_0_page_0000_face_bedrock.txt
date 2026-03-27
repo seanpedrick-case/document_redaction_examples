@@ -1,0 +1,45 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-25 22:08:40
+Image: Lambeth-Plan-2030_new_foreword.pdf_0.png
+Page: 1
+Image input size (pixels): 1276 x 903 (width x height)
+Input tokens: 1863
+Output tokens: 72
+Model: anthropic.claude-sonnet-4-6
+Model Type: Bedrock
+Max New Tokens: 8192
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all photos of people's faces in the image, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': '[FACE]', 'conf': 'confidence score 0-1.0'}, ...].
+
+Rules:
+- If there are no photos of people's faces in the image, return an empty JSON array []
+- If you are not confident that the detected object is a photo of a person's face, do not include it in the results. Only return results for objects that are clearly photos of people's faces. If in doubt, do not include it in the results.
+- For successful results, only return bbox, text, and conf keys. Do not include any other keys in the JSON.
+- Each identified photo of a person's face with high confidence should be a separate JSON entry
+- Only include photos of people's faces in the results, not a drawing or sketch
+- Bounding boxes around an identified person's face should completely cover the person's face\n- Bounding boxes should fit within the coordinate extents of the image: 0, 0 is the top left corner of the image, and 999, 999 is the bottom right corner of the image
+- 'text' must be exactly the string '[FACE]' (no other wording)
+- 'conf' should be a numeric confidence from 0-1
+- Do NOT include any other text or information in the JSON
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+```json
+[{"bbox": [352, 573, 407, 627], "text": "[FACE]", "conf": 0.92}, {"bbox": [952, 573, 999, 627], "text": "[FACE]", "conf": 0.90}]
+```
+
+================================================================================
+END OF LOG
+================================================================================

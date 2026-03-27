@@ -1,0 +1,70 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-26 14:47:51
+Image: Difficult handwritten note.jpg
+Page: 1
+Image input size (pixels): 1034 x 1114 (width x height)
+Input tokens: 11708
+Output tokens: 1151
+Model: ""
+Model Type: Inference Server
+Max New Tokens: 16384
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1.0'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- The text should not contain any formatting tags unless they are explicitly written in the text (e.g. the text is html or markdown)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+- Empty lines should be skipped
+- Use keys bbox, text, and conf; 'conf' must be a numeric confidence from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+```json
+[
+	{"bbox_2d": [285, 16, 709, 49], "text": "SURPRISE AND QUICK ACTION.", "conf": 0.9},
+	{"bbox_2d": [38, 63, 221, 105], "text": "Method of action:", "conf": 0.7},
+	{"bbox_2d": [264, 65, 713, 109], "text": "Three pronged attack in at first light.", "conf": 0.8},
+	{"bbox_2d": [271, 113, 759, 148], "text": "First prong BRIDGEHEAD AT REINE", "conf": 0.9},
+	{"bbox_2d": [269, 156, 915, 203], "text": "ASSAULT through and occupy neck of land joining", "conf": 0.8},
+	{"bbox_2d": [271, 194, 837, 246], "text": "peninsula with main portion of island.", "conf": 0.9},
+	{"bbox_2d": [265, 241, 958, 289], "text": "DESTROY all COMMUNICATIONS telephone wires etc", "conf": 0.9},
+	{"bbox_2d": [260, 331, 847, 367], "text": "spread out with bridgehead and occupy town.", "conf": 0.9},
+	{"bbox_2d": [255, 381, 994, 417], "text": "SECOND PRONG At Suman to cut line of communications at EMU POINT", "conf": 0.9},
+	{"bbox_2d": [336, 417, 728, 456], "text": "(from ANDO to main land.", "conf": 0.9},
+	{"bbox_2d": [257, 469, 981, 510], "text": "THIRD PRONG To take wireless station and lighthouse", "conf": 0.9},
+	{"bbox_2d": [263, 510, 947, 563], "text": "[initial stages] Cut off and destroy power station between", "conf": 0.8},
+	{"bbox_2d": [283, 551, 902, 601], "text": "PANDAR - ANDO - REINE thus preventing", "conf": 0.9},
+	{"bbox_2d": [43, 637, 204, 683], "text": "RESISTANCE:", "conf": 0.9},
+	{"bbox_2d": [271, 598, 731, 650], "text": "any further use of oil refineries etc.", "conf": 0.8},
+	{"bbox_2d": [274, 639, 974, 681], "text": "AT WIRELESS STATION LIGHTHOUSE complete surprise", "conf": 0.9},
+	{"bbox_2d": [271, 685, 953, 724], "text": "GERMANS AT REINE NOT AWARE SLIGHT RESISTANCE", "conf": 0.8},
+	{"bbox_2d": [276, 719, 803, 765], "text": "at Suman AGES OF ENEMY 16 to 45.", "conf": 0.9},
+	{"bbox_2d": [271, 750, 986, 804], "text": "Quislings FRIGHTENED ONE ESCAPED CAPTURED", "conf": 0.9},
+	{"bbox_2d": [283, 804, 785, 851], "text": "CHEST HIGH IN FREEZING WATER", "conf": 0.9},
+	{"bbox_2d": [276, 846, 893, 901], "text": "POPULATION Took in for Germans then Americans", "conf": 0.8},
+	{"bbox_2d": [274, 875, 793, 934], "text": "thought of as BRITISH IRISH brick.", "conf": 0.9},
+	{"bbox_2d": [276, 916, 605, 980], "text": "Description of Norwegian", "conf": 0.8}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

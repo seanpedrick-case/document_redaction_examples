@@ -1,0 +1,43 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-25 22:25:14
+Image: Difficult handwritten note.jpg
+Image input size (pixels): 1034 x 1114 (width x height)
+Input tokens: 2773
+Output tokens: 1279
+Model: amazon.nova-pro-v1:0
+Model Type: Bedrock
+Max New Tokens: 8192
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1.0'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- The text should not contain any formatting tags unless they are explicitly written in the text (e.g. the text is html or markdown)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text\n- Bounding boxes should fit within the coordinate extents of the image: 0, 0 is the top left corner of the image, and 999, 999 is the bottom right corner of the image
+- Empty lines should be skipped
+- Use keys bbox, text, and conf; 'conf' must be a numeric confidence from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+[{"bbox": [275, 15, 703, 50], "text": "SURPRISE AND QUICK ACTION.", "conf": 0.893}, {"bbox": [45, 69, 222, 106], "text": "Method of attack:", "conf": 0.857}, {"bbox": [268, 71, 716, 106], "text": "Three prongs attack at first light.", "conf": 0.855}, {"bbox": [271, 116, 763, 153], "text": "FOSH boms BRIDGEHEAD AT REINE", "conf": 0.876}, {"bbox": [276, 158, 919, 205], "text": "ASSAULT troops and occupy slor of land going", "conf": 0.86}, {"bbox": [267, 202, 813, 245], "text": "plainsula with main partia of Island.", "conf": 0.845}, {"bbox": [271, 246, 953, 283], "text": "DESTROY all COMMUNICATIONS, telephone with etc", "conf": 0.88}, {"bbox": [246, 287, 640, 323], "text": "and occupy POST OFFICE", "conf": 0.821}, {"bbox": [269, 329, 844, 369], "text": "Spread out with bridge head and keepy for", "conf": 0.851}, {"bbox": [258, 381, 967, 407], "text": "SECOND PRONS At Sum to cut lin of commucation all", "conf": 0.853}, {"bbox": [272, 404, 989, 457], "text": "EMU POINT (from ANDo to main land.", "conf": 0.863}, {"bbox": [484, 467, 968, 501], "text": "To take wireless otatia and lighthous", "conf": 0.823}, {"bbox": [258, 481, 445, 508], "text": "THIRD PRONS", "conf": 0.816}, {"bbox": [276, 518, 948, 556], "text": "Inition stages Cut off and distroy power station behin", "conf": 0.865}, {"bbox": [288, 560, 904, 593], "text": "PANDAH - ANDo - REINE this plunty", "conf": 0.867}, {"bbox": [274, 600, 739, 643], "text": "any further use of oil refinary etc.", "conf": 0.819}, {"bbox": [48, 643, 200, 695], "text": "RESISTANCE:", "conf": 0.871}, {"bbox": [273, 647, 976, 676], "text": "AT WIRELESS STATION: LIGHTHOUSE Complited Surprise", "conf": 0.882}, {"bbox": [273, 690, 959, 722], "text": "SERMAMS AT REINE not ABLE SLIGHT mesis luc", "conf": 0.841}, {"bbox": [279, 720, 908, 754], "text": "out Sum A GES OF ENEMY 76 to 145.", "conf": 0.877}, {"bbox": [642, 758, 939, 782], "text": "ONE ESCAPED CAPTURED", "conf": 0.855}, {"bbox": [272, 773, 602, 808], "text": "QUiSLINGs FRIGHTENED.", "conf": 0.818}, {"bbox": [291, 808, 790, 836], "text": "CHEST WHCH IN FREEZINS WATER", "conf": 0.823}, {"bbox": [284, 844, 897, 888], "text": "POPULATION Tool us for Sum us the america", "conf": 0.861}, {"bbox": [280, 885, 831, 921], "text": "outly ca as BRITISH. IRISH tmel.", "conf": 0.866}, {"bbox": [282, 921, 598, 965], "text": "DESCRIP im of Nowogian", "conf": 0.854}]
+
+================================================================================
+END OF LOG
+================================================================================

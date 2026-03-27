@@ -1,0 +1,74 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-26 14:38:39
+Image: Difficult handwritten note.jpg
+Page: 1
+Image input size (pixels): 1034 x 1114 (width x height)
+Input tokens: 11708
+Output tokens: 1342
+Model: ""
+Model Type: Inference Server
+Max New Tokens: 16384
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1.0'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- The text should not contain any formatting tags unless they are explicitly written in the text (e.g. the text is html or markdown)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+- Empty lines should be skipped
+- Use keys bbox, text, and conf; 'conf' must be a numeric confidence from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+```json
+[
+	{"bbox_2d": [287, 16, 713, 54], "text": "SURPRISE AND QUICK ACTION.", "conf": 0.9},
+	{"bbox_2d": [40, 69, 219, 113], "text": "Method of attack:", "conf": 0.78},
+	{"bbox_2d": [265, 64, 715, 108], "text": "Three prongs attacking at first light.", "conf": 0.9},
+	{"bbox_2d": [273, 108, 409, 153], "text": "First prong", "conf": 0.86},
+	{"bbox_2d": [435, 116, 757, 149], "text": "BRIDGEHEAD AT REINE", "conf": 0.9},
+	{"bbox_2d": [273, 158, 913, 208], "text": "ASSAULT through and occupy west of land going", "conf": 0.86},
+	{"bbox_2d": [273, 196, 804, 246], "text": "peninsula with main portion of island.", "conf": 0.9},
+	{"bbox_2d": [265, 238, 951, 301], "text": "DESTROY all COMMUNICATIONS telephone wires etc", "conf": 0.87},
+	{"bbox_2d": [264, 280, 641, 327], "text": "and occupy POST OFFICE", "conf": 0.9},
+	{"bbox_2d": [265, 319, 850, 375], "text": "Spread out with bridgehead and occupy town", "conf": 0.86},
+	{"bbox_2d": [249, 374, 990, 421], "text": "SECOND PRONG At Summ to cut line of communication at EMU POINT", "conf": 0.85},
+	{"bbox_2d": [336, 418, 725, 467], "text": "(from ANDIO to main land.", "conf": 0.9},
+	{"bbox_2d": [256, 461, 978, 519], "text": "THIRD PRONG To take wireless station and lighthouse", "conf": 0.83},
+	{"bbox_2d": [264, 507, 943, 570], "text": "(military stages) Cut off and destroy power station between", "conf": 0.81},
+	{"bbox_2d": [268, 553, 901, 614], "text": "PANDAR - ANDO - REINE thus preventing", "conf": 0.79},
+	{"bbox_2d": [273, 594, 738, 658], "text": "any further use of oil refineries etc.", "conf": 0.91},
+	{"bbox_2d": [40, 640, 197, 687], "text": "RESISTANCE:", "conf": 0.85},
+	{"bbox_2d": [273, 634, 951, 695], "text": "AT WIRELESS STATION LIGHTHOUSE complete surprise", "conf": 0.84},
+	{"bbox_2d": [271, 673, 958, 731], "text": "GERMANS AT REINE not aware SLIGHT resistance", "conf": 0.86},
+	{"bbox_2d": [276, 745, 419, 768], "text": "at Summ.", "conf": 0.93},
+	{"bbox_2d": [471, 709, 955, 763], "text": "AGES OF ENEMY   $^{1}b$ to H.S.", "conf": 0.84},
+	{"bbox_2d": [269, 748, 931, 816], "text": "Quislings FRIGHTENED ONE ESCAPED CAPTURED", "conf": 0.75},
+	{"bbox_2d": [287, 794, 789, 850], "text": "(CHEST HIGH IN FREEZING WATER", "conf": 0.63},
+	{"bbox_2d": [261, 830, 891, 905], "text": "POPULATION Took us for Germans then Americans", "conf": 0.74},
+	{"bbox_2d": [275, 884, 574, 936], "text": "Overfied as BRITISH.", "conf": 0.91},
+	{"bbox_2d": [650, 881, 830, 922], "text": "(IRISH blood.)", "conf": 0.74},
+	{"bbox_2d": [275, 931, 596, 974], "text": "Description of Norwegians", "conf": 0.8}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

@@ -1,0 +1,63 @@
+================================================================================
+LLM ENTITY DETECTION - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-26 15:23:03
+File: example_of_emails_sent_to_a_professor_before_applying
+Page: 2
+Input tokens: 551
+Output tokens: 130
+Batch Number: 2
+Model: ""
+Language: en
+Temperature: 0.1
+Max Tokens: 8192
+Entities to Detect: 
+
+================================================================================
+SYSTEM PROMPT (sent as system role)
+================================================================================
+--- BEGIN SYSTEM PROMPT ---
+# System Prompt
+You are a personal information detection system. Extract entities from the standard entity list, according to the INSTRUCTIONS HIERARCHY rules below, into a JSON array with the following structure: `{"entities": [{"Type": "", "BeginOffset": 0, "EndOffset": 0, "Score": 1.0, "Text": ""}]}`.
+
+## Standard entity list
+No standard entity types selected - analyse text based on ADDITIONAL USER INSTRUCTIONS provided.
+
+## ADDITIONAL USER INSTRUCTIONS:
+Redact Lauren's name (always cover the full name if available), email addresses, and phone numbers with the label LAUREN. Redact university names with the label UNIVERSITY. Always include the full university name if available.
+
+## INSTRUCTIONS HIERARCHY (Follow in order)
+1. Use the standard entity list as the baseline list of entities to analyse the text.
+2. ADDITIONAL USER INSTRUCTIONS (if available): these provide additional instructions for the analysis, and override the standard entity list if they contradict it. Users may suggest new entity types to identify - they may refer to them as labels, redactions, entity types, or other similar terms. Be sure to follow each instruction closely.
+3. If a USER INSTRUCTION contradicts a standard entity rule, the user instruction is the final authority. For example, with the USER INSTRUCTION "Do not redact information related to John", exclude all entities where the text mentions or is related to John in the output.
+4. If text could be assigned to multiple entity types then assign it to all relevant entity types in separate JSON entries, this includes entity types in the standard entity list or the ADDITIONAL USER INSTRUCTIONS.
+4. OFFSETS: The text position of the start and end of the text for a given entity type. A 0-based index.
+5. SCORE: A confidence score between 0.0 and 1.0. 1.0 is the highest confidence score.
+6. TEXT: The exact text substring that was identified.
+7. Return every relevant instance of a valid entity type after taking into account the ADDITIONAL USER INSTRUCTIONS, no matter how many times they appear in the text.
+8. OUTPUT: Return ONLY valid JSON. No additional text or commentary.
+--- END SYSTEM PROMPT ---
+
+================================================================================
+USER PROMPT (sent as user role)
+================================================================================
+--- BEGIN USER PROMPT ---
+### User prompt
+Analyse the following text according to the provided instructions in the system prompt.
+### Text:
+Please find my CV attached. Thank you for your time, --Lauren Lilley Dr. Poss, I am a senior biology major at the University of Notre Dame. I am applying to your graduate program and am very interested in your work. After glancing at a few of your recent papers and your research summary I find your research greatly coincides with my research experiences and interests. Will you be taking on new students next year? I have worked on several different research projects as an undergraduate in Dr. David R. Hyde's lab at the University of Notre Dame. The Hyde lab is interested in the signals that initiate Muller glia division post-light damage. My first research project was characterizing the role of leukemia inhibitory factor (LIF) in the activation of cell proliferation in the undamaged zebrafish retina. I am also working on several experiments that are related to a genetic screen that the Hyde lab plans on performing to identify mutants in the regeneration pathway--I am developing a neuroD4:EGFP transgenic line for use in this screen and I am characterizing the extent of damage and
+### Final instruction:
+Return only the JSON object, nothing else:
+--- END USER PROMPT ---
+
+
+================================================================================
+LLM RESPONSE
+================================================================================
+
+{"entities": [{"Type": "LAUREN", "BeginOffset": 52, "EndOffset": 64, "Score": 1.0, "Text": "--Lauren Lilley"}, {"Type": "UNIVERSITY", "BeginOffset": 97, "EndOffset": 123, "Score": 1.0, "Text": "University of Notre Dame"}, {"Type": "UNIVERSITY", "BeginOffset": 456, "EndOffset": 482, "Score": 1.0, "Text": "University of Notre Dame"}]}
+
+================================================================================
+END OF LOG
+================================================================================

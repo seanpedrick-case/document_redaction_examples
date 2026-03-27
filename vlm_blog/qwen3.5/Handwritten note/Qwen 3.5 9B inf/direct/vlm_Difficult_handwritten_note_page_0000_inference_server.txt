@@ -1,0 +1,77 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-26 16:20:06
+Image: Difficult handwritten note.jpg
+Page: 1
+Image input size (pixels): 1034 x 1114 (width x height)
+Input tokens: 11708
+Output tokens: 425
+Model: ""
+Model Type: Inference Server
+Max New Tokens: 16384
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1.0'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- The text should not contain any formatting tags unless they are explicitly written in the text (e.g. the text is html or markdown)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+- Empty lines should be skipped
+- Use keys bbox, text, and conf; 'conf' must be a numeric confidence from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+```json
+[
+	{"bbox": [285, 16, 712, 47], "text": "SURPRISE AND QUICK ACTION.", "conf": 0.99},
+	{"bbox": [38, 64, 220, 109], "text": "Methods of attack:", "conf": 0.99},
+	{"bbox": [267, 69, 716, 109], "text": "Three prongs attacking at first light.", "conf": 0.99},
+	{"bbox": [268, 116, 392, 152], "text": "First prong", "conf": 0.99},
+	{"bbox": [419, 116, 744, 151], "text": "BRIDGEHEAD AT REINE", "conf": 0.99},
+	{"bbox": [270, 158, 915, 198], "text": "ASSAULT through and occupy most of land jutting", "conf": 0.99},
+	{"bbox": [269, 199, 811, 241], "text": "peninsula with main portion of Island.", "conf": 0.99},
+	{"bbox": [266, 245, 952, 281], "text": "DESTROY all COMMUNICATIONS, telephone wires etc", "conf": 0.99},
+	{"bbox": [266, 285, 640, 323], "text": "and occupy POST OFFICE", "conf": 0.99},
+	{"bbox": [268, 327, 850, 365], "text": "spread out with bridgehead and occupy town", "conf": 0.99},
+	{"bbox": [258, 379, 434, 414], "text": "SECOND PRONG", "conf": 0.99},
+	{"bbox": [466, 379, 987, 415], "text": "At Sumur to cut line of communication at", "conf": 0.99},
+	{"bbox": [856, 405, 986, 429], "text": "EMU POINT", "conf": 0.99},
+	{"bbox": [436, 422, 746, 455], "text": "from ANDIO to main land.", "conf": 0.99},
+	{"bbox": [257, 475, 440, 510], "text": "THIRD PRONG", "conf": 0.99},
+	{"bbox": [478, 464, 975, 505], "text": "To take wireless station and lighthouse", "conf": 0.99},
+	{"bbox": [262, 517, 940, 558], "text": "initial stages Cut off and destroy power station between", "conf": 0.99},
+	{"bbox": [268, 560, 900, 598], "text": "PANDAR - ANDIO - REINE this power", "conf": 0.99},
+	{"bbox": [270, 602, 737, 642], "text": "any further use of oil refineries etc.", "conf": 0.99},
+	{"bbox": [39, 640, 200, 683], "text": "RESISTANCE:", "conf": 0.99},
+	{"bbox": [272, 635, 975, 678], "text": "AT WIRELESS STATION. LIGHTHOUSE completely surprised", "conf": 0.99},
+	{"bbox": [270, 681, 955, 719], "text": "GERMANS AT REINE not aware SLIGHT resistance", "conf": 0.99},
+	{"bbox": [273, 734, 409, 767], "text": "at Sumur.", "conf": 0.99},
+	{"bbox": [466, 727, 926, 762], "text": "AGES OF ENEMY 1/6 to 1/5.", "conf": 0.99},
+	{"bbox": [268, 770, 420, 805], "text": "Quislings", "conf": 0.99},
+	{"bbox": [450, 759, 933, 796], "text": "FRIGHTENED. ONE ESCAPED CAUGHT", "conf": 0.99},
+	{"bbox": [285, 804, 786, 845], "text": "CHEST HIGH IN FREEZING WATER", "conf": 0.99},
+	{"bbox": [270, 846, 890, 885], "text": "POPULATION Took in for Germans the Americans", "conf": 0.99},
+	{"bbox": [272, 891, 824, 929], "text": "Displaced at BRITISH IRISH brick.", "conf": 0.99},
+	{"bbox": [277, 933, 596, 966], "text": "Description of Norwegian", "conf": 0.99}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

@@ -1,0 +1,50 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-26 12:38:43
+Image: Partnership-Agreement-Toolkit_0_0.pdf_5.png
+Page: 6
+Image input size (pixels): 943 x 1221 (width x height)
+Input tokens: 1388
+Output tokens: 97
+Model: Qwen3.5-27B-bnb-4bit
+Model Type: VLM
+Temperature: 0.7
+Max New Tokens: 8192
+Top-p: 0.8
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all handwritten signatures in the image, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': '[SIGNATURE]', 'conf': 'confidence score 0-1.0'}, ...].
+
+Rules:
+- If there are no handwritten signatures in the image, return an empty JSON array []
+- If you are not confident that the detected object is a handwritten signature, do not include it in the results. Only return results for objects that are clearly handwritten signatures. If in doubt, do not include it in the results.
+- For successful results, only return bbox, text, and conf keys. Do not include any other keys in the JSON.
+- Each identified handwritten signature with high confidence should be a separate JSON entry
+- Bounding boxes around an identified handwritten signature should completely cover the signature
+- 'text' must be exactly the string '[SIGNATURE]' (no other wording)
+- 'conf' should be a numeric confidence from 0-1
+- Do NOT include any other text or information in the JSON.
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+
+
+```json
+[
+	{"bbox_2d": [549, 695, 722, 735], "label": "[SIGNATURE]", "confidence": 0.95},
+	{"bbox_2d": [486, 770, 678, 829], "label": "[SIGNATURE]", "confidence": 0.92}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

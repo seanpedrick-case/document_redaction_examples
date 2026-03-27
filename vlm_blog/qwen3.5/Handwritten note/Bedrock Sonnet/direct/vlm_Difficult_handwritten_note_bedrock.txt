@@ -1,0 +1,71 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-25 21:57:33
+Image: Difficult handwritten note.jpg
+Image input size (pixels): 1034 x 1114 (width x height)
+Input tokens: 1808
+Output tokens: 952
+Model: anthropic.claude-sonnet-4-6
+Model Type: Bedrock
+Max New Tokens: 8192
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1.0'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- The text should not contain any formatting tags unless they are explicitly written in the text (e.g. the text is html or markdown)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+- Bounding boxes should fit within the coordinate extents of the image: 0, 0 is the top left corner of the image, and 999, 999 is the bottom right corner of the image
+- Empty lines should be skipped
+- Use keys bbox, text, and conf; 'conf' must be a numeric confidence from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+```json
+[
+  {"bbox": [240, 18, 780, 52], "text": "SURPRISE AND QUICK ACTION.", "conf": 0.95},
+  {"bbox": [20, 72, 160, 100], "text": "Method of attack:", "conf": 0.90},
+  {"bbox": [240, 72, 720, 105], "text": "Three pronged attacking at first light.", "conf": 0.88},
+  {"bbox": [240, 108, 620, 138], "text": "First prong BRIDGEHEAD AT REINE", "conf": 0.90},
+  {"bbox": [240, 140, 820, 170], "text": "ASSAULT through and occupy neck of land joining", "conf": 0.87},
+  {"bbox": [240, 172, 760, 202], "text": "peninsulas with main portion of island.", "conf": 0.87},
+  {"bbox": [240, 205, 850, 235], "text": "DESTROY all COMMUNICATIONS, telephone wires etc", "conf": 0.88},
+  {"bbox": [240, 237, 680, 267], "text": "and occupy POST OFFICE", "conf": 0.90},
+  {"bbox": [240, 270, 750, 300], "text": "Spread out with bridgehead and occupy town", "conf": 0.86},
+  {"bbox": [240, 305, 870, 335], "text": "SECOND PRONG At Seum to cut line of communication at EMU POINT", "conf": 0.82},
+  {"bbox": [240, 337, 680, 367], "text": "from ANDO to main land.", "conf": 0.85},
+  {"bbox": [240, 372, 820, 402], "text": "THIRD PRONG To take wireless station and Lighthouse", "conf": 0.87},
+  {"bbox": [240, 404, 820, 434], "text": "initial stages Cut off and destroy power station between", "conf": 0.83},
+  {"bbox": [240, 437, 780, 467], "text": "PANDAR - ANDO - REINE thus preventing", "conf": 0.88},
+  {"bbox": [240, 470, 760, 500], "text": "any further use of oil refineries etc.", "conf": 0.84},
+  {"bbox": [20, 502, 170, 530], "text": "RESISTANCE:", "conf": 0.92},
+  {"bbox": [240, 502, 930, 532], "text": "AT WIRELESS STATION. LIGHTHOUSE completely Surprised", "conf": 0.85},
+  {"bbox": [240, 535, 840, 565], "text": "GERMANS AT REINE not aware SLIGHT resistance", "conf": 0.87},
+  {"bbox": [240, 567, 720, 597], "text": "at Seum. AGES OF ENEMY 16 to 45.", "conf": 0.85},
+  {"bbox": [240, 600, 840, 630], "text": "Quislings FRIGHTENED. ONE ESCAPED CAPTURED", "conf": 0.85},
+  {"bbox": [240, 632, 740, 662], "text": "CHEST HIGH IN FREEZING WATER", "conf": 0.90},
+  {"bbox": [240, 665, 840, 695], "text": "POPULATION Took us for Germans then Americans", "conf": 0.85},
+  {"bbox": [240, 697, 720, 727], "text": "surprised as BRITISH. IRISH touch.", "conf": 0.82},
+  {"bbox": [240, 730, 640, 760], "text": "Description of Quislings", "conf": 0.83}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================

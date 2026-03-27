@@ -1,0 +1,1 @@
+Redact Lauren's name (always cover the full name if available), email addresses, and phone numbers with the label LAUREN. Redact university names with the label UNIVERSITY. Always include the full university name if available.

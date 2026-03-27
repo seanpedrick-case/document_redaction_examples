@@ -1,0 +1,89 @@
+================================================================================
+VLM OCR - PROMPT AND RESPONSE LOG
+================================================================================
+
+Timestamp: 2026-03-26 12:32:52
+Image: Partnership-Agreement-Toolkit_0_0.pdf_5.png
+Page: 6
+Image input size (pixels): 943 x 1221 (width x height)
+Input tokens: 1404
+Output tokens: 1913
+Model: Qwen3.5-27B-bnb-4bit
+Model Type: VLM
+Temperature: 0.7
+Max New Tokens: 8192
+Top-p: 0.8
+
+================================================================================
+PROMPT
+================================================================================
+
+Spot all the text in the image at line-level, and output in JSON format as [{'bbox': [x1, y1, x2, y2], 'text': 'identified text', 'conf': 'confidence score 0-1.0'}, ...].
+
+IMPORTANT: Extract each horizontal line of text separately. Do NOT combine multiple lines into paragraphs. Each line that appears on a separate horizontal row in the image should be a separate entry.
+
+Rules:
+- Each line must be on a separate horizontal row in the image
+- Even if a sentence is split over multiple horizontal lines, it should be split into separate entries (one per line)
+- If text spans multiple horizontal lines, split it into separate entries (one per line)
+- The text should not contain any formatting tags unless they are explicitly written in the text (e.g. the text is html or markdown)
+- Do NOT combine lines that appear on different horizontal rows
+- Each bounding box should tightly fit around a single horizontal line of text
+- Empty lines should be skipped
+- Use keys bbox, text, and conf; 'conf' must be a numeric confidence from 0-1
+
+
+# Only return valid JSON, no additional text or explanation.
+
+================================================================================
+VLM RESPONSE
+================================================================================
+
+
+
+```json
+[
+  {"bbox_2d": [167, 31, 407, 64], "text": "SisterCities", "confidence": 0.95},
+  {"bbox_2d": [169, 64, 405, 74], "text": "INTERNATIONAL", "confidence": 0.95},
+  {"bbox_2d": [169, 86, 405, 99], "text": "Connect globally. Thrive locally.", "confidence": 0.95},
+  {"bbox_2d": [515, 26, 957, 60], "text": "Partnership Agreement", "confidence": 0.95},
+  {"bbox_2d": [825, 67, 957, 98], "text": "Toolkit", "confidence": 0.95},
+  {"bbox_2d": [386, 198, 866, 263], "text": "City of Long Beach", "confidence": 0.95},
+  {"bbox_2d": [547, 256, 688, 287], "text": "California", "confidence": 0.95},
+  {"bbox_2d": [320, 304, 697, 340], "text": "Sister City Agreement", "confidence": 0.95},
+  {"bbox_2d": [467, 350, 547, 361], "text": "between the", "confidence": 0.95},
+  {"bbox_2d": [378, 376, 634, 394], "text": "City of Long Beach", "confidence": 0.95},
+  {"bbox_2d": [397, 395, 612, 413], "text": "California, USA", "confidence": 0.95},
+  {"bbox_2d": [465, 415, 545, 426], "text": "and the", "confidence": 0.95},
+  {"bbox_2d": [318, 426, 690, 444], "text": "City of San Pablo de Manta", "confidence": 0.95},
+  {"bbox_2d": [345, 445, 663, 463], "text": "Ecuador, South America", "confidence": 0.95},
+  {"bbox_2d": [261, 481, 803, 501], "text": "In accordance with the authorization and approval expressed by the City of Long Beach,", "confidence": 0.95},
+  {"bbox_2d": [215, 496, 803, 516], "text": "California, USA, and the City of San Pablo de Manta, Ecuador, South America, it is declared", "confidence": 0.95},
+  {"bbox_2d": [215, 511, 799, 529], "text": "that a \"Sister City Agreement\" between the two cities is hereby established for the following", "confidence": 0.95},
+  {"bbox_2d": [215, 525, 287, 536], "text": "purposes:", "confidence": 0.95},
+  {"bbox_2d": [275, 535, 799, 553], "text": "(1) to promote and expand the effective and mutually beneficial cooperation between", "confidence": 0.95},
+  {"bbox_2d": [215, 549, 626, 567], "text": "the people of Long Beach and the people of San Pablo de Manta; and", "confidence": 0.95},
+  {"bbox_2d": [275, 562, 799, 580], "text": "(2) to promote international goodwill, understanding, and expanded business", "confidence": 0.95},
+  {"bbox_2d": [215, 575, 803, 593], "text": "relations between the two cities and their respective nations by the exchange of people, ideas, and", "confidence": 0.95},
+  {"bbox_2d": [215, 589, 803, 607], "text": "information in a wide variety of economic, social, cultural, municipal, environmental,", "confidence": 0.95},
+  {"bbox_2d": [215, 603, 547, 620], "text": "professional, technical, youth, and other endeavors; and", "confidence": 0.95},
+  {"bbox_2d": [275, 616, 799, 633], "text": "(3) to foster and encourage charitable, scientific, trade and commerce, literary and", "confidence": 0.95},
+  {"bbox_2d": [215, 629, 481, 645], "text": "educational activities between the two cities;", "confidence": 0.95},
+  {"bbox_2d": [261, 642, 803, 660], "text": "This Sister City Agreement shall be officially established and shall become effective when", "confidence": 0.95},
+  {"bbox_2d": [215, 655, 803, 673], "text": "this document has been duly executed by the Mayor of Long Beach, California, USA, and the", "confidence": 0.95},
+  {"bbox_2d": [215, 669, 583, 685], "text": "Mayor of San Pablo de Manta, Ecuador, South America.", "confidence": 0.95},
+  {"bbox_2d": [547, 694, 715, 736], "text": "Beverly O'Neill", "confidence": 0.95},
+  {"bbox_2d": [585, 734, 719, 750], "text": "Beverly O'Neill", "confidence": 0.95},
+  {"bbox_2d": [541, 750, 750, 767], "text": "Mayor, City of Long Beach", "confidence": 0.95},
+  {"bbox_2d": [551, 766, 709, 782], "text": "California, USA", "confidence": 0.95},
+  {"bbox_2d": [503, 773, 679, 829], "text": "Jorge Zambrano", "confidence": 0.95},
+  {"bbox_2d": [529, 820, 777, 836], "text": "Ing. Jorge O. Zambrano Cedeño", "confidence": 0.95},
+  {"bbox_2d": [503, 835, 787, 853], "text": "Mayor, City of San Pablo de Manta", "confidence": 0.95},
+  {"bbox_2d": [523, 852, 767, 868], "text": "Ecuador, South America", "confidence": 0.95},
+  {"bbox_2d": [545, 880, 744, 896], "text": "Dated: September 19, 2000", "confidence": 0.95}
+]
+```
+
+================================================================================
+END OF LOG
+================================================================================
