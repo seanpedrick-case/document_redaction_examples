@@ -1,0 +1,1 @@
+﻿image,page,label,color,xmin,ymin,xmax,ymax,id,text

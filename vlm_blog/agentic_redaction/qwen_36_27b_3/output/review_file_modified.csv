@@ -1,0 +1,24 @@
+image,page,label,color,xmin,ymin,xmax,ymax,id,text
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_2.png,3,EMAIL_ADDRESS,"(0, 0, 0)",0.448627,0.78303,0.647451,0.796061,olH5lkxmSfTR,akaplan@sister-cities.org
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_2.png,3,PHONE_NUMBER,"(0, 0, 0)",0.118039,0.799697,0.188802,0.81,MyzS3SF6dbyK,347-8630
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_3.png,4,PERSON,"(0, 0, 0)",0.317255,0.80697,0.764314,0.817576,l6ogeAdrbqoS,Mohammed bin Butti Al Hamed Lee
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png,5,PERSON,"(0, 0, 0)",0.673333,0.878485,0.795686,0.890909,4vr23jZbsbLS,Ken Livingston
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_5.png,6,PERSON,"(0, 0, 0)",0.561569,0.825455,0.70902,0.839091,MmIzu2vN3ZjK,Jorge O . Zambrano
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_6.png,7,PERSON,"(0, 0, 0)",0.557647,0.215758,0.731765,0.226364,5oBVksiR4zBh,RICHARD M . DALEY
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_6.png,7,PERSON,"(0, 0, 0)",0.623529,0.412121,0.859314,0.424545,ZR2ATswSf3NN,the Honorable Zhang Rongmao
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_3.png, 4,SIGNATURE,"(0, 0, 0)",.2,.9,.75,.99,pSigP4,PAGE_SIGNATURE
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_5.png, 6,SIGNATURE,"(0, 0, 0)",.2,.9,.75,.99,pSigP6,PAGE_SIGNATURE
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_6.png, 7,SIGNATURE,"(0, 0, 0)",.2,.9,.75,.99,pSigP7,PAGE_SIGNATURE
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_6.png, 7,SIGNATURE,"(0, 0, 0)",.5,.9,.75,.99,pSigP7b,PAGE_SIGNATURE
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png, 5,LONDON,"(0, 0, 0)",.5,.37,.68,.42,pLp5t,London
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png, 5,LONDON,"(0, 0, 0)",.3,.6,.5,.63,pLp5b1,London
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png, 5,LONDON,"(0, 0, 0)",.2,.69,.35,.72,pLp5b2,London
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png, 5,LONDON,"(0, 0, 0)",.5,.79,.65,.82,pLp5b3,London
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png, 5,LONDON,"(0, 0, 0)",.6,.93,.75,.96,pLp5s,London
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_4.png, 5,SIGNATURE,"(0, 0, 0)",.65,.93,.82,.97,pSigP5,Ken Livingstone sig
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_0.png, 1,SISTER_CITY,"(0, 0, 0)",.15,.42,.38,.46,pSCp1h,Sister City
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_0.png, 1,SISTER_CITY,"(0, 0, 0)",.2,.57,.5,.6,pSCp1b,Sister City
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_0.png, 1,SISTER_CITY,"(0, 0, 0)",.2,.69,.55,.73,pSCp1c,Sister City
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_0.png, 1,SISTER_CITY,"(0, 0, 0)",.2,.79,.55,.83,pSCp1d,Sister City
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_1.png, 2,SISTER_CITY,"(0, 0, 0)",.3,.55,.6,.59,pSCp2a,Sister City
+/home/user/app/input/e79f4bdf/dfbc34b8a8e14721b45ad4a1e02cd316_Partnership-Agreement-Toolkit_0_0.pdf_2.png, 3,SISTER_CITY,"(0, 0, 0)",.2,.69,.58,.75,pSCp3a,Sister City

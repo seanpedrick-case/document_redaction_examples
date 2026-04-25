@@ -1,3 +1,8 @@
 archive/*
 vlm_ocr/*
 *.json
+vlm_blog/agentic_redaction/cursor_fast/*
+vlm_blog/agentic_redaction/kimi_25/*
+vlm_blog/agentic_redaction/qwen_36_27b/*
+vlm_blog/agentic_redaction/qwen_36_27b_2/*
+vlm_blog/agentic_redaction/qwen_36_35b/*
