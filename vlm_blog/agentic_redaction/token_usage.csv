@@ -1,0 +1,17 @@
+Sonnet 4.6,,,,,
+Token type,Tokens,M tokens,Token price ($/M tokens),Cost ($),For 300 page doc
+Cache Read ,10851050,10.85105,0,0,
+Cache Write,342753,0.342753,0,0,
+Input ,109831,0.109831,3,0.33,
+Output ,86129,0.086129,15,1.29,
+Total,,,,1.621428,69.49
+,,,,25,17.8571428571429
+,,,,,
+Composer 2.0,,,,,
+Token type,Tokens,M tokens,Token price ($/M tokens),Cost ($),For 300 page doc
+Cache Read ,3546000,3.546,0,0,
+Cache Write,0,0,0,0,
+Input ,180982,0.180982,0.5,0.09,
+Output ,33827,0.033827,2.5,0.08,
+Total,,,,0.1750585,7.50
+,,,,25,17.8571428571429
