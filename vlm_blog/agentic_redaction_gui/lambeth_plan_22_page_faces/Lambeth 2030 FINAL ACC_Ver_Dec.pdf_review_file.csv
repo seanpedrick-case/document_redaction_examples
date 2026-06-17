@@ -1,0 +1,470 @@
+image,page,label,color,xmin,ymin,xmax,ymax,text,id
+placeholder_image_0.png,1,CUSTOM,"(0, 0, 0)",0.0742,0.0542,0.2906,0.0909,Lambeth,ovPSRcRrMYBa
+placeholder_image_0.png,1,CUSTOM,"(0, 0, 0)",0.2551,0.2015,0.3478,0.2158,LAMBETH,N2ixzylXpiPV
+placeholder_image_0.png,1,CUSTOM - PERSON,"(0, 0, 0)",0.7058,0.935,0.9033,0.9692,Lambeth,aes36XyHu1N1
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.8385,0.0316,0.8833,0.0422,Lambeth 2030 Lambeth,txxbNvEpnNtZ
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.9347,0.0316,0.9627,0.0422,Lambeth,sHDKqf3w12e2
+placeholder_image_1.png,2,CUSTOM - PERSON,"(0, 0, 0)",0.0387,0.0322,0.0837,0.0422,Lambeth 2030 Lambeth Lambeth,9tItZ3TiJesG
+placeholder_image_1.png,2,PERSON,"(0, 0, 0)",0.1351,0.0322,0.1613,0.0422,Lambeth,inUPgaaBVgKL
+placeholder_image_1.png,2,CUSTOM - PERSON,"(0, 0, 0)",0.537,0.1149,0.8571,0.1762,Lambeth 2030 Lambeth,EGAGztP7DgZ9
+placeholder_image_1.png,2,PERSON,"(0, 0, 0)",0.537,0.1149,0.7422,0.1762,Lambeth,KXRtlrTsvJuY
+placeholder_image_1.png,2,CUSTOM_VLM_FACES,"(0, 0, 0)",0.2653,0.2834,0.3014,0.3706,[FACE],n3zTbTzM4uv8
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.6374,0.5023,0.6912,0.5143,Lambeth 2030,Ltq5XVpkFPw9
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.6216,0.5422,0.6769,0.553,Lambeth 2030,fp3h8TpENfEu
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.5646,0.5807,0.6007,0.5935,Lambeth,XYTFwTftriv7
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.6259,0.6197,0.6628,0.6326,Lambeth,2OUNEtART3bM
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.6281,0.6588,0.6648,0.6719,Lambeth,zAq1QieUPFgU
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.6315,0.699,0.6698,0.7107,Lambeth,hL15Vcue1Q3i
+placeholder_image_1.png,2,CUSTOM,"(0, 0, 0)",0.5652,0.7375,0.6249,0.7497,Lambeth 2030,yxbVC72FRwnP
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.0387,0.0322,0.0869,0.0416,Lambeth 2030 Lambeth,up61oR4UEuPp
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.1349,0.0322,0.1611,0.0416,Lambeth,oBxDTNZL4Uw1
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.8383,0.0322,0.8871,0.0416,Lambeth 2030 Lambeth,pjS3JcIwF5a0
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.9347,0.0322,0.9625,0.0416,Lambeth,Q8fRO2iVZqCQ
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.0468,0.301,0.1139,0.3227,Lambeth,z7NGdu6tyvC1
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.6523,0.3016,0.716,0.3244,Lambeth,s0v4pys6lbTG
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.807,0.302,0.851,0.452,Davis,f2734d90-cd0
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.361,0.3464,0.3935,0.3563,Lambeth,AmPWXm9UwUZu
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.6392,0.3503,0.7077,0.3706,Lambeth,0nkoW2z7Y9je
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.0687,0.4088,0.1165,0.4202,William Blake,37KZrF30qHsv
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.126,0.4088,0.1691,0.4202,Olive Morris,420565ee-a7e
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.3673,0.4313,0.3976,0.4421,Lambeth,VKUprepGpaVQ
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.7567,0.4629,0.7993,0.4726,for Lambeth,vGyqBehbJdZI
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.5559,0.4912,0.5861,0.5017,Lambeth,VlqLzVMoezKj
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.7569,0.4926,0.8109,0.5031,Lambeth 2030,Ko3UJGeb6OlY
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.0784,0.5094,0.1123,0.5194,Lambeth,nlEMDFKdXpEo
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.2699,0.5311,0.3026,0.5419,Lambeth,Lb0gpV526oBA
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.7089,0.5351,0.7402,0.5459,Lambeth,JFKO1rNp3Cip
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.668,0.549,0.7019,0.5604,Lambeth,HamhQ3ALWlIN
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.7652,0.5493,0.799,0.561,Lambeth,qV7fjRW1J5BP
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.3324,0.5741,0.3648,0.5841,Lambeth,pTO0R8sQc2SX
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.8764,0.6363,0.9295,0.6477,Lambeth 2030,tVUX3ks886ya
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.377,0.642,0.416,0.791,Claire,bc59d1d0-639
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.397,0.642,0.439,0.791,Holland,89322e52-106
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.353,0.6454,0.4001,0.6554,the Lambeth,RKEB6qLTd914
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.847,0.6651,0.8803,0.6759,Lambeth,GddlAasuP7kj
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.7873,0.693,0.844,0.7041,Lambeth 2030,hypnNaQ4Ouxp
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.3169,0.7021,0.3495,0.7127,Lambeth,z00Pp4Uzme1O
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.5475,0.7075,0.6015,0.7189,Lambeth 2030,FuUnZCC4ug0E
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.1953,0.7375,0.2264,0.7483,Lambeth,FUUYdbqPXnf4
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.3068,0.7449,0.3401,0.7557,Lambeth,rdB8PUsjPaDr
+placeholder_image_2.png,3,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7658,0.7839,0.8148,0.8931,[FACE],MJJGh7jLKrgu
+placeholder_image_2.png,3,CUSTOM_VLM_FACES,"(0, 0, 0)",0.2653,0.7939,0.3132,0.8911,[FACE],SGyuICz0oGWn
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.7013,0.823,0.7291,0.8338,Lambeth,X3c5GxQZlHip
+placeholder_image_2.png,3,CUSTOM - PERSON,"(0, 0, 0)",0.2062,0.8509,0.2377,0.8623,Lambeth,XR8MffHxNZj5
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.7567,0.8937,0.7926,0.9048,lan Davis,5RX3ZPuSUUnu
+placeholder_image_2.png,3,PERSON,"(0, 0, 0)",0.2991,0.9088,0.353,0.9188,Claire Holland,UI0S0Pey3Mhv
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.2965,0.9227,0.3292,0.9336,Lambeth,zSh4GmzR3lIv
+placeholder_image_2.png,3,CUSTOM,"(0, 0, 0)",0.7567,0.9227,0.7912,0.9333,Lambeth,eqaSqo7i5cK3
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,9osHzAREvVfu
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,dDusO2yJLICh
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,27TUoUyCh20O
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,iCb107usfkV8
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,KOvY6g2CFHxs
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8682,0.0427,Lambeth,HZH7Kg4HV3CZ
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.5476,0.3155,0.597,0.3354,Lambeth,XFfKtwN4nPij
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.5476,0.3155,0.597,0.3354,Lambeth,e2BKG2cYDpOQ
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.5476,0.4155,0.5808,0.4293,Lambeth,7ILtXisROWUJ
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.5476,0.4155,0.5808,0.4293,Lambeth,ZAp3dWoKp4no
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.8217,0.444,0.8549,0.4578,Lambeth,bLX2mXTzzaKD
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.5869,0.4725,0.6201,0.4863,Lambeth,5x4UrFty6HOB
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.5869,0.4725,0.6201,0.4863,Lambeth,e6xNaGaPx8Aj
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.8705,0.501,0.9037,0.5148,Lambeth,GQRdfhtiwr9C
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.7087,0.558,0.7418,0.5718,Lambeth,XYTmfJQHg79g
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.6078,0.615,0.641,0.6289,Lambeth,6bOwlRGGN3q2
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.6078,0.615,0.641,0.6289,Lambeth,B5N4gPoVDvG4
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.6687,0.6578,0.7018,0.6716,Lambeth,JFzHTw8CXOTt
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.7571,0.672,0.7903,0.6859,Lambeth,kkzUgkkklYOt
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.7571,0.672,0.7903,0.6859,Lambeth,QYxAnl9ccX9r
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.7668,0.7005,0.7999,0.7144,Lambeth,0sDPMbvQFQBb
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.7668,0.7005,0.7999,0.7144,Lambeth,paeiqgYhXXoL
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.5565,0.7148,0.5896,0.7286,Lambeth,q7MaZvVndYJ9
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.8765,0.729,0.9096,0.7429,Lambeth,2mSEnIOukfEh
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.7828,0.8003,0.837,0.8142,Lambeth 2030,wkWASBnEt9xo
+placeholder_image_3.png,4,CUSTOM,"(0, 0, 0)",0.9024,0.8286,0.9447,0.8456,Lambeth,6lKljZcydDUa
+placeholder_image_3.png,4,PERSON,"(0, 0, 0)",0.9024,0.8286,0.9447,0.8456,Lambeth,tKqy88QcasIa
+placeholder_image_4.png,5,CUSTOM,"(0, 0, 0)",0.0389,0.0322,0.0869,0.0416,Lambeth 2030 Lambeth,ELtiEzOIvtYF
+placeholder_image_4.png,5,CUSTOM,"(0, 0, 0)",0.1351,0.0322,0.1611,0.0416,Lambeth,k9vVuIUbzkkF
+placeholder_image_4.png,5,CUSTOM,"(0, 0, 0)",0.8385,0.0322,0.8827,0.0416,Lambeth2o3o,yS1vTztu7TEu
+placeholder_image_4.png,5,CUSTOM,"(0, 0, 0)",0.9357,0.0322,0.9645,0.0416,Lambeth,knjFsWMBrZ9z
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8599,0.065,0.894,0.118,[FACE],QGHTqKnGMKAo
+placeholder_image_4.png,5,CUSTOM,"(0, 0, 0)",0.0443,0.1078,0.3665,0.1802,Lambeth 2030,3iNriSx9z5WU
+placeholder_image_4.png,5,CUSTOM,"(0, 0, 0)",0.0472,0.3053,0.1643,0.3486,Lambeth,QTVbfLoTSAA1
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.5846,0.3615,0.6706,0.4977,[FACE],UbC0RULLIEBH
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.9119,0.6716,0.9589,0.7657,[FACE],OjSRKaxwdXBf
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7658,0.7397,0.7807,0.7637,[FACE],wiGxPg8AEWBq
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7547,0.7548,0.7617,0.7819,[FACE],8cDYh6tFkai8
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8049,0.7548,0.8248,0.7939,[FACE],8XhCZtlXwkCJ
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7438,0.7628,0.7569,0.7908,[FACE],4gWCjPU7OpjD
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7587,0.7637,0.7698,0.7916,[FACE],zQ4kjJzFrYZW
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7658,0.7668,0.7918,0.8119,[FACE],uUix5jkLryBq
+placeholder_image_4.png,5,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8418,0.7748,0.8587,0.8039,[FACE],Ge3ITRlEaEnF
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,0tHrHqu2CKIJ
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,7PA9hfBCX2dE
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,y844Oh0c29gT
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,xL0TZ9m4Uy8W
+placeholder_image_5.png,6,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,MonJz8n8pyTr
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.3577,0.1269,0.393,0.141,Lambeth,AbfgbM5jRi7H
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.5337,0.1529,0.589,0.1771,Lambeth,580d91bf-1fc
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.7818,0.2156,0.8171,0.2297,Lambeth,rivCC5LVUIvx
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.3033,0.382,0.3386,0.3961,Lambeth,FBMhVIJXDcDg
+placeholder_image_5.png,6,PERSON,"(0, 0, 0)",0.3033,0.382,0.3386,0.3961,Lambeth,LUhGnDt0mi4y
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.6131,0.4774,0.6484,0.4916,Lambeth,wLbDpr7xDUBo
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.1115,0.4927,0.1468,0.5069,Lambeth,FNvvGyriI1bM
+placeholder_image_5.png,6,PERSON,"(0, 0, 0)",0.1115,0.4927,0.1468,0.5069,Lambeth,i0z15hr6Kt1O
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.6225,0.5497,0.6578,0.5639,Lambeth,onWMEcQ1z0EM
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.2803,0.6202,0.3156,0.6344,Lambeth,LOwJ8kCZXJPQ
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.5923,0.6466,0.6276,0.6608,Lambeth,NXuOz55VxKpU
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.06,0.6851,0.0953,0.6992,Lambeth,O0Hug4sZoSZJ
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.5435,0.7802,0.6377,0.8086," 
+Lambe",EkQhs7syWe1h
+placeholder_image_5.png,6,PERSON,"(0, 0, 0)",0.5435,0.7802,0.6377,0.8086," 
+Lambe",uNW2ljzuBehk
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.41,0.7811,0.4453,0.7952,Lambeth,vAw1dbn8vaA6
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.3375,0.8751,0.3728,0.8893,Lambeth,68T5e2JXVpgi
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.1635,0.8894,0.1988,0.9036,Lambeth,CblHab0P9KVB
+placeholder_image_5.png,6,CUSTOM,"(0, 0, 0)",0.3523,0.9036,0.3876,0.9178,Lambeth,bAUT1lf9cbzo
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.0371,0.0319,0.0867,0.0419,Lambeth 2030 Lambeth,wfnMNdzSoz3w
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.1347,0.0319,0.1611,0.0419,Lambeth,dn1QN2T20jvR
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.8385,0.0322,0.8841,0.0416,Lambeth 2030 Lambeth,UEWBsT22yQjW
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.9361,0.0322,0.9647,0.0416,Lambeth,32C6LgIAVZmH
+placeholder_image_6.png,7,CUSTOM - PERSON,"(0, 0, 0)",0.3632,0.4461,0.3953,0.4575,Lambeth,VrIQkK6vY5YH
+placeholder_image_6.png,7,PERSON - CUSTOM,"(0, 0, 0)",0.0554,0.4666,0.1111,0.4775,Make Lambeth Lambeth,T7FN1yDy442W
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.0772,0.4666,0.1111,0.4775,Lambeth,gf5S9DOYzuge
+placeholder_image_6.png,7,PERSON,"(0, 0, 0)",0.3153,0.4889,0.3638,0.4997,George Floyd,yaG8MPUslHt2
+placeholder_image_6.png,7,PERSON,"(0, 0, 0)",0.3788,0.4889,0.434,0.4997,Sarah Everard,aoFeq8rI0Hws
+placeholder_image_6.png,7,CUSTOM - PERSON,"(0, 0, 0)",0.4019,0.5887,0.4332,0.6001,Lambeth,EkqzcWUtBGoV
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.4025,0.6314,0.4358,0.6431,Lambeth,8NNGFNsxBAIP
+placeholder_image_6.png,7,CUSTOM - PERSON,"(0, 0, 0)",0.2834,0.6747,0.3169,0.6856,Lambeth,1jBhuyBKSqfb
+placeholder_image_6.png,7,CUSTOM,"(0, 0, 0)",0.3457,0.7739,0.387,0.7856,"Lambeth""",XMbbEd7qR15g
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,Z1qV7Pk8aSbu
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,aEI4PruC6wBb
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,OvMqmX0nrWAA
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,Q1nVaOh7GGWC
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,Yx6EuARUMD9t
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0476,0.168,0.3527,0.2473,Lambeth 2030,BvcKelbkV5iu
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.3592,0.332,0.3913,0.346,Lambeth,imFAsycqcgs2
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0873,0.3462,0.1193,0.3602,Lambeth,8MUEwZU00joX
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.0873,0.3462,0.1193,0.3602,Lambeth,FtYYxQMPgKEw
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0476,0.3605,0.0797,0.3745,Lambeth,larsN2HeeMNT
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.6229,0.3878,0.6723,0.4077,Lambeth,u7QPe3yhZ0k0
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.1835,0.389,0.2155,0.403,Lambeth,QK0hJKUlDiDT
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.1835,0.389,0.2155,0.403,Lambeth,G0DFTYS8z5Ov
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.3976,0.389,0.4297,0.403,Lambeth,g02HQd6Pi1G9
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.3976,0.389,0.4297,0.403,Lambeth,rzW03PobRUl1
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.8057,0.4237,0.8551,0.4435,Lambeth,GpFWYsgDLp24
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.1663,0.4317,0.198,0.4458,Lambeth,qS1QoJpCdztp
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.1663,0.4317,0.198,0.4458,Lambeth,KFQhSX4Uh82C
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0701,0.4602,0.1019,0.4743,Lambeth,mFEb4ZCg7Abk
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.0701,0.4602,0.1019,0.4743,Lambeth,1uSGg9RrjhSs
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.2844,0.4602,0.3164,0.4743,Lambeth,5Kt31VYL1p6i
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.2844,0.4602,0.3164,0.4743,Lambeth,AkCYzetyBX4Q
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.2035,0.5458,0.2355,0.5598,Lambeth,7j9KuiOck8PK
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.8424,0.5657,0.8919,0.5856,Lambeth,2y05HScrSmnd
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.8424,0.5657,0.8919,0.5856,Lambeth,oe3ciELwLj0E
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.657,0.5674,0.7064,0.5872,Lambeth,7ijjvnlX32Zp
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.2669,0.6169,0.3012,0.6311,Lambeth,OQECPW5ynZX2
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0476,0.6883,0.0797,0.7023,Lambeth,N7RKJcpMtiVK
+placeholder_image_7.png,8,PERSON,"(0, 0, 0)",0.0476,0.6883,0.0797,0.7023,Lambeth,ZmUYqSVuVloC
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.1232,0.7168,0.1763,0.7308,Lambeth 2030,NgBXlKnHOHhZ
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.4031,0.7168,0.4347,0.7308,Lambeth,H2VpQdPcBRcv
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.1147,0.7452,0.15,0.7594,Lambeth,pqmQMo86jYQ4
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.5735,0.7755,0.6523,0.7954,Lambeth 2030,1horieRtYmsl
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.0476,0.8165,0.1039,0.8307,Lambeth 2030,JFvIUBBVwp0y
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.7933,0.8628,0.8427,0.8826,Lambeth,dBO0Gk4xb9MJ
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.7729,0.8917,0.8266,0.9109,ambeth 2030 ,ZmWStXO5WBfg
+placeholder_image_7.png,8,CUSTOM,"(0, 0, 0)",0.7541,0.9012,0.8005,0.9206,Lambeth,B9ItU85J0Hv1
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,FKE3hOYLO1ji
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,XxAHphKbdY5o
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,AW3nzSbq5baz
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,SvlxRr053IaZ
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,8TKJaQtbbPuS
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.7677,0.2122,0.8878,0.2604,Lambeth,Op1U5x7k5x48
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.5476,0.3569,0.6112,0.3824,Lambeth,qja1E52gdnQT
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.572,0.5442,0.6355,0.5697,Lambeth,rycAhLHftq7f
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.2815,0.5754,0.345,0.6009,Lambeth,Yc4oe0cx4ZgA
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.2815,0.5754,0.345,0.6009,Lambeth,OprGgREgZFXH
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.7965,0.6012,0.8297,0.6151,Lambeth,hmxM0jlG2Vrd
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.0476,0.618,0.0797,0.6321,Lambeth,xsitIfVjj3ok
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.0476,0.618,0.0797,0.6321,Lambeth,8QaWBkcIB4vK
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.2571,0.6418,0.2892,0.6558,Lambeth,nlBkL5s3Lym9
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.2571,0.6418,0.2892,0.6558,Lambeth,PJKp8POpIJtd
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.7965,0.6432,0.8297,0.657,Lambeth,AfHZeNX22Kqr
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.1542,0.6608,0.1862,0.6748,Lambeth,jPQCDoorUlA0
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.7965,0.6852,0.8297,0.699,Lambeth,nP94TkpnX1bl
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.0778,0.6893,0.1098,0.7033,Lambeth,4J2BWUsK91hJ
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.3678,0.7273,0.3998,0.7413,Lambeth,PO8Ab9U9cEL7
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.3678,0.7273,0.3998,0.7413,Lambeth,Lf79JFCvkTUj
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.608,0.7439,0.6433,0.7581,Lambeth,TNKU6Ik1Z9dA
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.608,0.7439,0.6433,0.7581,Lambeth,okkrtybrvm92
+placeholder_image_8.png,9,CUSTOM,"(0, 0, 0)",0.0476,0.7606,0.0797,0.7746,Lambeth,gQUN3v6ttWjK
+placeholder_image_8.png,9,PERSON,"(0, 0, 0)",0.0476,0.7606,0.0797,0.7746,Lambeth,GEgQaLPG0Mmj
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,z4c10cE03JUg
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,bc8vDpVqLZPG
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,T3pfdfPUL4WV
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,JPDchFndF730
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,N1Q5Gtt4JrTM
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8682,0.0427,Lambeth,laZXbGDyqjWP
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.3494,0.5216,0.3815,0.5357,Lambeth,fnWhWntivywn
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.3494,0.5216,0.3815,0.5357,Lambeth,wdHaRlP5qDHQ
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.1173,0.5786,0.1494,0.5927,Lambeth,cWuMae2WTmUY
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.1173,0.5786,0.1494,0.5927,Lambeth,N57A9WBGcn1e
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.2571,0.5786,0.2892,0.5927,Lambeth,o5ZMcKJjhiaT
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.2571,0.5786,0.2892,0.5927,Lambeth,ubeMKCH41cIJ
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.3612,0.6214,0.3933,0.6354,Lambeth,uc1unYX4nd0c
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.3612,0.6214,0.3933,0.6354,Lambeth,A693kfCiFqys
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.0476,0.6784,0.0797,0.6924,Lambeth,GNwJBNxLdYLM
+placeholder_image_9.png,10,PERSON,"(0, 0, 0)",0.0476,0.6784,0.1357,0.6924,Lambeth Golden Thread,cBx2Ti8GpLph
+placeholder_image_9.png,10,CUSTOM,"(0, 0, 0)",0.3121,0.7714,0.3697,0.7966,Lambeth,XZ3JPq83BXdS
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,ZsYZRQ0E9kP1
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,W7wO3Rm2NTtf
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,mnuffZn5X9RC
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,nyytMMvIuGkq
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.1443,0.1038,0.342,0.1832,Lambeth,3GdZ9zKAGbWB
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.0476,0.3142,0.1117,0.3419,Lambeth,MAQRXv6p0vr8
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.1109,0.3524,0.1686,0.3776,Lambeth,aG9CGqvRGcdp
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.0476,0.4188,0.0781,0.4328,Lambeth,NDMlawcTZsVz
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.0476,0.4188,0.0781,0.4328,Lambeth,12pDpydhDtnM
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.2571,0.4901,0.2877,0.5041,Lambeth,b5pYgROJPQDN
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.0476,0.5328,0.0781,0.5469,Lambeth,8BpyQcDYWHtU
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.0476,0.5328,0.0781,0.5469,Lambeth,2VWW0GauumPW
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.2959,0.5328,0.3264,0.5469,Lambeth,tAAARlbe1h8U
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.0476,0.6469,0.0781,0.6609,Lambeth,z0IByG29sOnl
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.0476,0.6469,0.0781,0.6609,Lambeth,6nsOg87upakI
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.2028,0.6611,0.2333,0.6751,Lambeth,MJpr8tlK2U4j
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.2028,0.6611,0.2333,0.6751,Lambeth,lMoZ9lKICYNx
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.3634,0.7466,0.3944,0.7607,Lambeth,rK2c6lPDJwbS
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.3634,0.7466,0.3944,0.7607,Lambeth,lrOXaxRFQnmk
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.2571,0.7871,0.2904,0.8043,Lambeth,cUdzexg7GFWZ
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.1524,0.8892,0.1829,0.9032,Lambeth,5zQM9y9PltD9
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.2571,0.9034,0.2882,0.9174,Lambeth,wSzmQBwIB6XX
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.2571,0.9177,0.2874,0.9317,Together,tfbKRHJbUwAt
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.2683,0.9319,0.2993,0.946,Lambeth,8BLD9zheUQnh
+placeholder_image_10.png,11,PERSON,"(0, 0, 0)",0.2683,0.9319,0.2993,0.946,Lambeth,ozGkcOislfBI
+placeholder_image_10.png,11,CUSTOM,"(0, 0, 0)",0.1138,0.9462,0.1443,0.9602,Lambeth,wnBc4L9AgYlN
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,OiOaiYi2sRyw
+placeholder_image_11.png,12,PERSON,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,N41NFijXlOtZ
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,1ofx3uJ4c0Jt
+placeholder_image_11.png,12,PERSON,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,iASQd1XfWVN7
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,dnajQQyGQSrC
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,8nSZf6kG74f0
+placeholder_image_11.png,12,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8682,0.0427,Lambeth,cBxBRhn4tMwE
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.4635,0.1305,0.635,0.2013,Lambeth,zuxKnjWmR20x
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.6109,0.3145,0.6686,0.3397,Lambeth,BXoQM32BUBde
+placeholder_image_11.png,12,PERSON,"(0, 0, 0)",0.6109,0.3145,0.6686,0.3397,Lambeth,mDwiAe8qu711
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.7571,0.4052,0.7889,0.4192,Lambeth,W2OM0uYhuXLU
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.8365,0.4195,0.8682,0.4335,Lambeth,1Nzv8D0KzEB9
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.6349,0.4337,0.667,0.4478,Lambeth,QigQ6Unv1EGQ
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.7791,0.4765,0.8109,0.4905,Lambeth,BQ528w4TPdtK
+placeholder_image_11.png,12,PERSON,"(0, 0, 0)",0.7791,0.4765,0.8109,0.4905,Lambeth,WkJdOctt3vRo
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.5811,0.5335,0.6131,0.5475,Lambeth,tbjWUStPqjVQ
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.5984,0.562,0.63,0.576,Lambeth,TJoeyuFOcyrd
+placeholder_image_11.png,12,CUSTOM,"(0, 0, 0)",0.6096,0.7996,0.6414,0.8136,Lambeth,iTZ5n6MIpsk9
+placeholder_image_11.png,12,PERSON,"(0, 0, 0)",0.6096,0.7996,0.6414,0.8136,Lambeth,PYlgpFYBzNSX
+placeholder_image_12.png,13,CUSTOM - PERSON,"(0, 0, 0)",0.0387,0.0322,0.0869,0.0416,Lambeth 2030 Lambeth Lambeth,dFL07dHHlwaL
+placeholder_image_12.png,13,PERSON,"(0, 0, 0)",0.1349,0.0322,0.1611,0.0416,Lambeth,fS1QzDW8dk9W
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.8385,0.0322,0.8871,0.0416,Lambeth 2030 Lambeth,piJm0fAXbO7N
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.9347,0.0322,0.9627,0.0416,Lambeth,rSphh4A1fftf
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.5967,0.3332,0.6287,0.3441,Lambeth,myqEXEj0yUHM
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.308,0.3692,0.3356,0.3794,LAMBETH,ahvimZ9rNfDV
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.691,0.3754,0.7255,0.3874,Lambeth's,IoliqdRRlmN8
+placeholder_image_12.png,13,CUSTOM - PERSON,"(0, 0, 0)",0.1415,0.3903,0.1786,0.4011,Lambeth's,WUl3PrsTybVg
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.0828,0.4182,0.122,0.4304,Lambeth's,wpNQJYrMBVH6
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.4128,0.4986,0.4396,0.5071,Lambeth,KMbhWt6twZLW
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.2955,0.5391,0.3096,0.5445,LAMBETH,jJcWDni9zTTt
+placeholder_image_12.png,13,CUSTOM - PERSON,"(0, 0, 0)",0.6837,0.5693,0.694,0.5753,Lambeth,1qnO04k5i7Wz
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.5604,0.6365,0.5747,0.6448,Lambeth,VdbGMcudj4dZ
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.4146,0.707,0.4416,0.7166,Lambeth,kut903Natvfb
+placeholder_image_12.png,13,CUSTOM - PERSON,"(0, 0, 0)",0.5473,0.88,0.5795,0.8925,Lambeth,bo8lvMZ7eOLJ
+placeholder_image_12.png,13,CUSTOM,"(0, 0, 0)",0.3532,0.8931,0.39,0.9039,Lambeth's,OobR2xb4P5yt
+placeholder_image_13.png,14,CUSTOM - PERSON,"(0, 0, 0)",0.0385,0.0322,0.0867,0.0422,Lambeth 2030 Lambeth Lambeth,jkoDVvzpMnl0
+placeholder_image_13.png,14,PERSON,"(0, 0, 0)",0.1351,0.0322,0.1613,0.0422,Lambeth,73fHBuk0g0DC
+placeholder_image_13.png,14,CUSTOM - PERSON - PERSON,"(0, 0, 0)",0.8383,0.0322,0.8871,0.0416,Lambeth 2030 Lambeth Lambeth Lambeth,fIfEtc5nVnQd
+placeholder_image_13.png,14,PERSON,"(0, 0, 0)",0.8383,0.0322,0.868,0.0416,Lambeth,D1xvFoKlWCs6
+placeholder_image_13.png,14,PERSON,"(0, 0, 0)",0.9347,0.0322,0.9625,0.0416,Lambeth,hLEACCxps0CB
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.3155,0.3187,0.3507,0.3301,Lambeth's,VHcotDSERr8W
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.0895,0.3472,0.129,0.3586,Lambeth's,aLmG5yCU9aKU
+placeholder_image_13.png,14,CUSTOM - PERSON,"(0, 0, 0)",0.28,0.4322,0.3116,0.4441,Lambeth,xwd7WlJIY87z
+placeholder_image_13.png,14,CUSTOM - PERSON,"(0, 0, 0)",0.0633,0.4849,0.0966,0.4963,Lambeth,3OBGv6aMfPRC
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.1437,0.5277,0.1768,0.5385,Lambeth,NWgGXXPWmdM9
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.0972,0.6417,0.1312,0.6534,Lambeth,9ViBAlef1mXd
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.1687,0.6844,0.202,0.6958,Lambeth,rP2dB2lU7Pkn
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.1699,0.6987,0.2018,0.7101,Lambeth,JMsTTmTZAbDY
+placeholder_image_13.png,14,CUSTOM - PERSON,"(0, 0, 0)",0.1143,0.7845,0.1467,0.795,Lambeth,3PMLv5TYYmVG
+placeholder_image_13.png,14,CUSTOM,"(0, 0, 0)",0.3399,0.8318,0.3682,0.8426,Lambeth,iUtRZzZLhuJz
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,ily83GqcNt0Z
+placeholder_image_14.png,15,PERSON,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,pVk3bPCsp0Nu
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,aEsBJa39sHf8
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,Nj0G1HJ4WC4G
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,1T5BIDb4kU0T
+placeholder_image_14.png,15,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8682,0.0427,Lambeth,gfugQXkW39Qy
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.4823,0.1305,0.6588,0.2013,Lambeth,WjqQ3FrH8TKW
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.6082,0.3145,0.6641,0.3397,Lambeth,DpGVR7Rjw4Xc
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.6995,0.4337,0.7315,0.4478,Lambeth,oVaDob6PejYW
+placeholder_image_14.png,15,PERSON,"(0, 0, 0)",0.6995,0.4337,0.7315,0.4478,Lambeth,EDNOV1SI3kqO
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.5563,0.4765,0.5884,0.4905,Lambeth,pmRcxORTqLl7
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.8746,0.4907,0.9067,0.5048,Lambeth,oE8MBgC0tg35
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.9126,0.676,0.9446,0.6901,Lambeth,HUuQroUTZC7n
+placeholder_image_14.png,15,PERSON,"(0, 0, 0)",0.9126,0.676,0.9446,0.6901,Lambeth,zk63jCERbMTC
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.6956,0.7331,0.7276,0.7471,Lambeth,NnQVWc9R0nco
+placeholder_image_14.png,15,PERSON,"(0, 0, 0)",0.6956,0.7331,0.7276,0.7471,Lambeth,Rrj2ISHuJtdU
+placeholder_image_14.png,15,CUSTOM,"(0, 0, 0)",0.5739,0.8613,0.606,0.8754,Lambeth,tEJshHtr15cH
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.0387,0.0322,0.0869,0.0416,Lambeth 2030 Lambeth,4z6XnVubVkcX
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.1349,0.0322,0.1611,0.0416,Lambeth,ZfczuTwRyU28
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.8383,0.0322,0.8871,0.0416,Lambeth 2030 Lambeth,NPa135jGDZH7
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.9357,0.0322,0.9641,0.0416,Lambeth,kHEvonRxHxOU
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.0585,0.3187,0.0886,0.3295,Lambeth,AShD6JHhVVU8
+placeholder_image_15.png,16,CUSTOM - PERSON,"(0, 0, 0)",0.1205,0.3332,0.1544,0.3446,Lambeth,4Oy86VNyrm5e
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.7565,0.3469,0.7894,0.3592,Lambeth,14jQ4Wkg0nMA
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.177,0.4188,0.205,0.4293,Lambeth,4uMvocpzoo4T
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.3685,0.433,0.4019,0.4438,Lambeth,stdx8sRxhM0Q
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.5473,0.4333,0.5817,0.4433,Lambeth,7wMCFhB2htdE
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.1854,0.4618,0.2163,0.4718,Lambeth,obEEvnDquwBO
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.101,0.4755,0.1369,0.4872,Lambeth's,wXz7tS9yfQcF
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.8623,0.5043,0.892,0.5151,Lambeth,cI64JZAEE5T9
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.1852,0.5046,0.2151,0.5154,Lambeth,0NLRMXPGYspb
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.3884,0.5046,0.4168,0.5154,Lambeth,JIrOy8BHypJZ
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.6384,0.5755,0.6759,0.5864,Lambeth,dA4BoWBdESnb
+placeholder_image_15.png,16,CUSTOM - PERSON,"(0, 0, 0)",0.3326,0.5941,0.3665,0.6049,Lambeth,qilGB97QoIuI
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.5473,0.6189,0.5827,0.6288,Lambeth',tKqc7VVYovsv
+placeholder_image_15.png,16,CUSTOM - PERSON,"(0, 0, 0)",0.1897,0.6328,0.2223,0.6437,Lambeth,Mm00rzxB8ya2
+placeholder_image_15.png,16,PERSON - CUSTOM,"(0, 0, 0)",0.0474,0.7366,0.1082,0.7483,Making Lambeth Lambeth,ehM3epcb0RwB
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.0742,0.7366,0.1082,0.7483,Lambeth,3ciuWmJ2hOmI
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.3235,0.7657,0.3544,0.7759,Lambeth,ahAzEb4eRpNL
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.2903,0.7939,0.3223,0.8047,Lambeth,4UK7OqE0okwO
+placeholder_image_15.png,16,CUSTOM - PERSON,"(0, 0, 0)",0.5473,0.7939,0.5793,0.8047,Lambeth,J49AluiqTdAD
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.3729,0.8655,0.4068,0.8763,Lambeth,WsooxdVrkjQI
+placeholder_image_15.png,16,CUSTOM,"(0, 0, 0)",0.2931,0.894,0.3259,0.9048,Lambeth,hdOu20ijIk7x
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,tZHX6T9VFxXb
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.136,0.0313,0.1616,0.0425,Lambeth,cx4ao0D35hVv
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.9362,0.0313,0.9619,0.0425,Lambeth,A3rcIS9K6yLa
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.0384,0.0314,0.0869,0.0427,Lambeth 2030,Hl437P6ohxQS
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.8387,0.0314,0.8872,0.0427,Lambeth 2030,dQvhObFHe6dH
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.8387,0.0314,0.8682,0.0427,Lambeth,PNFLVotmZmIr
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.4728,0.1305,0.6493,0.2013,Lambeth,CuJXUFPwbVW2
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.6109,0.3145,0.6686,0.3397,Lambeth,y4J9v1O6Ksyl
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.5476,0.4432,0.5797,0.4573,Lambeth,zQtEyyrpBTlI
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.5476,0.4432,0.5797,0.4573,Lambeth,nz4K8Hd8Y5El
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.6766,0.486,0.7086,0.5,Lambeth,on2dbtpXTdvk
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.6766,0.486,0.7086,0.5,Lambeth,M9NwV0XunpfR
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.6626,0.5573,0.6946,0.5713,Lambeth,0EV8qipd2z3A
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.7571,0.6143,0.7892,0.6283,Lambeth,6PdA6jkdO7Gf
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.7571,0.6143,0.7892,0.6283,Lambeth,pPjM7ImwjmeS
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.5979,0.6713,0.6299,0.6853,Lambeth,CgM2Nsxot8ac
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.5979,0.6713,0.6299,0.6853,Lambeth,XWDN68TNwWzL
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.6581,0.7283,0.6901,0.7423,Lambeth,Goll49zifjHo
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.6581,0.7283,0.6901,0.7423,Lambeth,KViab8KB4UG7
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.8477,0.7283,0.8797,0.7423,Lambeth,JpowOdShFyVv
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.605,0.7712,0.6685,0.7967,Lambeth,1E6cSlsA7Ya1
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.605,0.7712,0.6685,0.7967,Lambeth,R0BESHDQivlJ
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.8748,0.7853,0.9068,0.7993,Lambeth,9OWuSsqnE9UN
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.6545,0.8328,0.6866,0.8469,Lambeth,EuoH09K5nQ9d
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.6545,0.8328,0.6866,0.8469,Lambeth,CPSEISW0exYh
+placeholder_image_16.png,17,CUSTOM,"(0, 0, 0)",0.627,0.8471,0.659,0.8611,Lambeth,Xy0UsadlKSVG
+placeholder_image_16.png,17,PERSON,"(0, 0, 0)",0.627,0.8471,0.659,0.8611,Lambeth,VGHlEPU5fd00
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.0387,0.0322,0.0869,0.0416,Lambeth 2030 Lambeth,DuaRyqTK9QMw
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.1349,0.0322,0.1611,0.0416,Lambeth,yKt8QL61wJ2P
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.8385,0.0322,0.8871,0.0416,Lambeth 2030 Lambeth Lambeth,j7jLDNDmAAba
+placeholder_image_17.png,18,PERSON,"(0, 0, 0)",0.9347,0.0322,0.9627,0.0416,Lambeth,Ed8CCH68vGzV
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.257,0.3178,0.3808,0.3387,Making Lambeth,iLfGUXZSiJoc
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.8603,0.3187,0.8932,0.3295,Lambeth,OYdX3DtVGwCA
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.4025,0.3774,0.4362,0.3891,Lambeth,5QFZal1FDzAV
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.6402,0.4444,0.6777,0.4552,Lambeth's,uGP4bUmgFQQ7
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.691,0.5584,0.7201,0.5693,Lambeth,oOw3LDRLOkuX
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.8918,0.5895,0.9202,0.6009,Lambeth,a4RNTErMTbdC
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.0968,0.618,0.1298,0.63,Lambeth,lKlGWMx90STJ
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.5473,0.644,0.5793,0.6545,Lambeth,PoDyUykDyzaN
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.5799,0.6725,0.6144,0.6833,Lambeth,58w8tNsXr9dD
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.8605,0.675,0.8922,0.6867,Lambeth,Ba4MZ7uRkD7g
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.3634,0.6776,0.3973,0.6884,Lambeth,kr7glPWUWipS
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.7015,0.7152,0.7325,0.7261,Lambeth,v9Vg6v8hyFdj
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.92,0.7318,0.9349,0.7457,[FACE],FquSBfApw0xo
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.9069,0.7338,0.919,0.7457,[FACE],VBDk1jJ3W10f
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.9369,0.7357,0.949,0.7469,[FACE],OVKh6M3pvdwA
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8559,0.7457,0.8758,0.7637,[FACE],Mq6uP7ehOFPN
+placeholder_image_17.png,18,CUSTOM,"(0, 0, 0)",0.1659,0.7466,0.1981,0.7574,Lambeth,kACVz5qa4GZb
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.3955,0.7469,0.4235,0.7879,[FACE],xy4M4zo6lsZW
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8468,0.7497,0.8617,0.7637,[FACE],Y55kop0x3rI1
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7537,0.7517,0.7686,0.7697,[FACE],icjtXgOe1ZAV
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.944,0.7517,0.9571,0.7637,[FACE],qX7DmeE4DW2X
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8137,0.7529,0.8317,0.7688,[FACE],xLQSD99mdr9J
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7648,0.7557,0.7807,0.7697,[FACE],IG7C5uMh2Nlc
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.9149,0.7577,0.928,0.7688,[FACE],pETb5tAEvEZh
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8738,0.7597,0.8869,0.7697,[FACE],SoZIvZtEGF92
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.3143,0.7688,0.3493,0.8158,[FACE],NOuNkPPfMzDr
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.3864,0.7708,0.4164,0.8079,[FACE],OJcKN2GBPLWF
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.3513,0.7899,0.3814,0.8258,[FACE],5Ge10YSDvoBg
+placeholder_image_17.png,18,CUSTOM_VLM_FACES,"(0, 0, 0)",0.2743,0.7919,0.3064,0.8369,[FACE],Bkgn7fMjZ2SI
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.1782,0.8181,0.2106,0.829,Lambeth,byTY8kPANIFh
+placeholder_image_17.png,18,CUSTOM - PERSON,"(0, 0, 0)",0.5969,0.8429,0.6272,0.8552,Lambeth,vB0KZFh0j3SU
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.0387,0.0322,0.0869,0.0416,Lambeth 2030 Lambeth,wGNM495YoaET
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.1349,0.0322,0.1611,0.0416,Lambeth,19SaG9QEHQtS
+placeholder_image_18.png,19,CUSTOM - PERSON,"(0, 0, 0)",0.8385,0.0322,0.8871,0.0416,Lambeth 2030 Lambeth Lambeth,Zj3JdZIWAqIb
+placeholder_image_18.png,19,PERSON,"(0, 0, 0)",0.9347,0.0322,0.9625,0.0416,Lambeth,Kvm2NEGAmjvs
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.7567,0.3327,0.7952,0.3449,Lambeth's,wK6GMrgbewtE
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.5473,0.3535,0.5795,0.3657,Lambeth,b5Im8enD8iFx
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.8658,0.4042,0.898,0.4159,Lambeth,Z8xDwfyiLz9C
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.3844,0.4464,0.4183,0.4587,Lambeth,t80rHSXxZOk0
+placeholder_image_18.png,19,CUSTOM - PERSON,"(0, 0, 0)",0.047,0.4484,0.0771,0.4607,Lambeth,frzNvySmIbu4
+placeholder_image_18.png,19,CUSTOM - PERSON,"(0, 0, 0)",0.5793,0.4678,0.6136,0.4795,Lambeth,wm8a8ZUQiqy5
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.3763,0.4755,0.4051,0.4872,Lambeth,KZwpky8whtz2
+placeholder_image_18.png,19,CUSTOM,"(0, 0, 0)",0.4094,0.5043,0.4396,0.5151,Lambeth,6jhegx9TXwqp
+placeholder_image_18.png,19,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8599,0.5747,0.9369,0.6787,[FACE],Zgc02Fnvt8Pa
+placeholder_image_18.png,19,CUSTOM - PERSON,"(0, 0, 0)",0.2568,0.575,0.2891,0.5867,Lambeth,ELoPCIgvNApk
+placeholder_image_18.png,19,CUSTOM - PERSON,"(0, 0, 0)",0.158,0.6488,0.1909,0.6596,Lambeth,UQN1dASz6HG4
+placeholder_image_18.png,19,CUSTOM_VLM_FACES,"(0, 0, 0)",0.6416,0.6807,0.6716,0.7357,[FACE],nDb0gMMv1wJt
+placeholder_image_19.png,20,CUSTOM - PERSON - PERSON,"(0, 0, 0)",0.8383,0.0322,0.8833,0.0416,Lambeth 2030 Lambeth Lambeth Lambeth,F9ZCzdVMXDH8
+placeholder_image_19.png,20,PERSON,"(0, 0, 0)",0.8383,0.0322,0.8664,0.0416,Lambeth,BdrM8J7gFJUa
+placeholder_image_19.png,20,PERSON,"(0, 0, 0)",0.9347,0.0322,0.9641,0.0416,Lambeth,aA4TwFTxgr2x
+placeholder_image_19.png,20,CUSTOM - PERSON,"(0, 0, 0)",0.0333,0.0328,0.0869,0.0413,Lambeth 2030 Lambeth Lambeth,9eigL8ic3bm2
+placeholder_image_19.png,20,PERSON,"(0, 0, 0)",0.1344,0.0328,0.159,0.0413,Lambeth,7itgw0eco6dG
+placeholder_image_19.png,20,CUSTOM_VLM_FACES,"(0, 0, 0)",0.8418,0.065,0.8938,0.1471,[FACE],BD7Rb3nODrHN
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.1465,0.114,0.3433,0.177,Lambeth,5YmFBsCNJAjW
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.0433,0.1773,0.1717,0.2426,2030,u71UdATyP1cZ
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.3779,0.3233,0.4317,0.3486,Lambeth,OVSIVBbRIZuR
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.3644,0.4162,0.4001,0.4279,Lambeth,EGUEiART5aFT
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.072,0.4176,0.1224,0.4322,Lambeth,9C9q0vTM3R6P
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.2989,0.4578,0.3336,0.4709,Lambeth,7ka5OWtjzgpW
+placeholder_image_19.png,20,CUSTOM_VLM_FACES,"(0, 0, 0)",0.5356,0.4675,0.5606,0.5046,[FACE],2QMr1ozCIUIr
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.0895,0.4983,0.124,0.5114,Lambeth,jFYGOsCBU9Dk
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.2989,0.5071,0.3336,0.5202,Lambeth,vDZVMWycNVej
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.0897,0.5479,0.1242,0.5621,Lambeth,NDuJ1Imbg3YN
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.2989,0.5567,0.3336,0.5698,Lambeth,PPUP16mHSeqY
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.0895,0.6112,0.124,0.6251,Lambeth,Wj9BvXNc25yS
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.3661,0.6271,0.4021,0.6391,Lambeth,KznFa7sA8tZJ
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.2989,0.669,0.3336,0.6827,Lambeth,VHkWVxhHdbFW
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.1554,0.6967,0.1889,0.7084,Lambeth,n3cZIadeSIdC
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.2989,0.7189,0.3336,0.7318,Lambeth,ouBDvbzm7Icg
+placeholder_image_19.png,20,CUSTOM - PERSON,"(0, 0, 0)",0.0897,0.7377,0.1242,0.7531,Lambeth,qkvT08DiJyMl
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.0895,0.7588,0.124,0.7725,Lambeth,iWCsAGuASgIR
+placeholder_image_19.png,20,CUSTOM_VLM_FACES,"(0, 0, 0)",0.7617,0.7588,0.7847,0.8019,[FACE],u1xeSh4AEj2C
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.2989,0.768,0.3336,0.7819,Lambeth,Tb8cFlzRRuRy
+placeholder_image_19.png,20,PERSON,"(0, 0, 0)",0.9055,0.7985,0.952,0.8173,Friendiy,IFA40hp0NkRX
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.0895,0.809,0.124,0.8218,Lambeth,umRO5jOxNub2
+placeholder_image_19.png,20,CUSTOM,"(0, 0, 0)",0.9067,0.8181,0.95,0.8335,LAMBETH,7MBuZBhHyF5x
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.0391,0.0322,0.0839,0.0416,Lambeth 2030 Lambeth Lambeth,Izz021b1IaOa
+placeholder_image_20.png,21,PERSON,"(0, 0, 0)",0.1351,0.0322,0.1613,0.0416,Lambeth,eiV4W01dfQye
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.8385,0.0322,0.8839,0.0416,Lambeth 2030 Lambeth Lambeth,Xukj7tgo1uZb
+placeholder_image_20.png,21,PERSON,"(0, 0, 0)",0.8385,0.0322,0.8668,0.0416,Lambeth,S1sbRxhbcpyl
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.9357,0.0322,0.9641,0.0416,Lambeth,8wzPDrKZ9NFt
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.0476,0.3158,0.1546,0.3421,Lambeth 2030,O64EA24tLCfb
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.3358,0.3441,0.3963,0.368,Lambeth,5pEHStvcblnb
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2661,0.4897,0.3005,0.5003,Lambeth,3WLkiEslRogj
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.0474,0.49,0.0806,0.5009,Lambeth,HIQMua2sZ5tH
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2893,0.5245,0.3207,0.5365,Lambeth,LHrllOmSxGiN
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2661,0.5428,0.2997,0.5542,Lambeth,1Zy4l7BgYPpT
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.2661,0.5428,0.3322,0.5542,Lambeth Lambeth Together,onKDRYQV0a6G
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.1278,0.5753,0.1617,0.5869,Lambeth,pVSvphsyVlUl
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2657,0.5941,0.2995,0.6069,Lambeth,Yn5CjXGCsuy4
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2661,0.6129,0.2995,0.6237,Lambeth,8mbJZWDpM0zP
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.0623,0.6183,0.1209,0.6291,Lambeth 2030,moAbOQwSob2x
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2661,0.6306,0.3007,0.642,Lambeth,J0pA7UdA1u83
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.0623,0.6465,0.101,0.6574,Lambeth,AwArBDhA1pKT
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.2663,0.6485,0.2989,0.6591,Lambeth,Ii7l1fu2PrOt
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.0695,0.7035,0.1044,0.7152,Lambeth,jDzJk7qG9WqE
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.0724,0.7605,0.1027,0.7714,Lambeth,BfZW19EWGaZd
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.257,0.7682,0.2911,0.7796,Lambeth,YV0OvS6XcUri
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.2725,0.8104,0.3039,0.823,Lambeth,lMclFrP0Slfj
+placeholder_image_20.png,21,CUSTOM - PERSON,"(0, 0, 0)",0.2568,0.8392,0.3098,0.8506,Lambeth 2030,IF7jtU439TZS
+placeholder_image_20.png,21,CUSTOM,"(0, 0, 0)",0.4052,0.9085,0.4413,0.9225,Lambeth,GnQYPcMBsXEI
+placeholder_image_21.png,22,CUSTOM,"(0, 0, 0)",0.5576,0.5892,0.8724,0.649,Lambeth 2030,Y2RV3wkA8fbn
+placeholder_image_21.png,22,CUSTOM,"(0, 0, 0)",0.5576,0.5892,0.8724,0.649,Lambeth 2030 lambeth,78feBj3erQmU
